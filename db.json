@@ -1,9 +1,3078 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "articles": [
+    {
+      "list": [
+        {
+          "id": "0",
+          "title": "На чемпионате мира наплевали на правила ради Норвегии. Нарушителю вернули отобранное золото",
+          "description": "Долгие разбирательства так и не помогли обделенной стороне добиться справедливости.",
+          "content": "Долгие разбирательства так и не помогли обделенной стороне добиться справедливости.\nОсобое отношение к норвежским спортсменам со стороны Международного союза биатлонистов всегда вызывало вопросы.\nНо произошедший на чемпионате мира беспредел даже на э... [3609 chars]",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Biatlon/spbnews_NI2170417_Na_chempionate_mira_naplevali_na_pravila_radi_Norvegii_Narushitelu_vernuli_otobrannoje_zoloto",
+          "image": "https://s-cdn.sportbox.ru/images/shares/1200x600/node/c5/2170417.jpg",
+          "publishedAt": "2025-02-19T07:19:15Z",
+          "source": {
+            "name": "news.Sportbox.ru",
+            "url": "https://news.sportbox.ru"
+          }
+        },
+        {
+          "id": "1",
+          "title": "Американо-российские переговоры в Эр-Рияде: предварительные итоги",
+          "description": "Россия и США продолжают переговоры о мире в Украине без участия Киева",
+          "content": "Администрация президента Дональда Трампа во вторник заявила о согласии провести дополнительные переговоры с Россией о прекращении войны в Украине после первой встречи, на которую приглашен не был. Это стало отходом от прежнего подхода Вашингтона, кот... [5850 chars]",
+          "url": "https://www.golosameriki.com/a/amerikano-rossijskie-peregovory-v-er-riyade-predvaritel-nye-itogi/7980120.html",
+          "image": "https://gdb.voanews.com/ED60050B-8C28-4678-BBF6-98ABC3886931.jpg",
+          "publishedAt": "2025-02-19T03:48:16Z",
+          "source": {
+            "name": "ГОЛОС АМЕРИКИ - VOA Russian",
+            "url": "https://www.golosameriki.com"
+          }
+        },
+        {
+          "id": "2",
+          "title": "Россия выдала казахстанца, которому грозит до 15 лет тюрьмы",
+          "description": "Генеральная прокуратура РК из России экстрадировала гражданина Казахстана для привлечения к уголовной ответственности за совершение вымогательства и мошенничества в составе организованной преступной группы, сообщает Zakon.kz.",
+          "content": "Генеральная прокуратура РК из России экстрадировала гражданина Казахстана для привлечения к уголовной ответственности за совершение вымогательства и мошенничества в составе организованной преступной группы, сообщает Zakon.kz.\nКак рассказали в надзорн... [978 chars]",
+          "url": "https://www.zakon.kz/sobytiia/6467608-rossiya-vydala-kazakhstantsa-kotoromu-grozit-do-15-let-tyurmy.html",
+          "image": "https://www.zakon.kz/pbi/WEBP/2025-02-19/file-37090819-2a7a-48ef-98bc-5d76e9814180/800x450.webp",
+          "publishedAt": "2025-02-19T03:31:00Z",
+          "source": {
+            "name": "zakon.kz",
+            "url": "https://www.zakon.kz"
+          }
+        },
+        {
+          "id": "3",
+          "title": "Договорняков не будет: Россия возьмёт под контроль всю Украину - Москва ставит ультиматум, Зеленский \"кусает\" Трампа",
+          "description": "Несмотря на весь этот шум вокруг переговоров России и США по украинскому конфликту, Москва не намерена сдавать назад и планирует достигнуть всех...",
+          "content": "Договорняков не будет: Россия возьмёт под контроль всю Украину — Москва ставит ультиматум, Зеленский «кусает» Трампа\nНесмотря на весь этот шум вокруг переговоров России и США по украинскому конфликту, Москва не намерена сдавать назад и планирует дост... [8040 chars]",
+          "url": "https://19rusinfo.ru/politika/89265-dogovornyakov-ne-budet-rossiya-vozmjot-pod-kontrol-vsyu-ukrainu-moskva-stavit-ultimatum-zelenskij-kusaet-trampa",
+          "image": "https://19rusinfo.ru/images/content/econa-article-images/89265/full/-1.jpg",
+          "publishedAt": "2025-02-18T21:55:00Z",
+          "source": {
+            "name": "ИА Хакасия",
+            "url": "https://19rusinfo.ru"
+          }
+        },
+        {
+          "id": "4",
+          "title": "Российская лыжница обрадовала всю страну. В жизни Степановой резкие перемены",
+          "description": "Олимпийская чемпионка родила прекрасную дочку, а уже через год может отправиться в Милан побеждать норвежек.",
+          "content": "Олимпийская чемпионка родила прекрасную дочку, а уже через год может отправиться в Милан побеждать норвежек.\nРоссийская лыжница Вероника Степанова в 2021 году ярко дебютировала на Кубке мира, обыгрывая многих великих спортсменок и имея фантастические... [3744 chars]",
+          "url": "https://news.sportbox.ru/Vidy_sporta/cross_country/spbnews_NI2170280_Rossijskaja_lyzhnica_obradovala_vsu_stranu_V_zhizni_Stepanovoj_rezkije_peremeny",
+          "image": "https://s-cdn.sportbox.ru/images/shares/1200x600/node/ea/2170280.jpg",
+          "publishedAt": "2025-02-18T20:36:54Z",
+          "source": {
+            "name": "news.Sportbox.ru",
+            "url": "https://news.sportbox.ru"
+          }
+        },
+        {
+          "id": "5",
+          "title": "Путин распорядился выплачивать 65 т.р. части жителей Курской области",
+          "description": "Деньги должны выплачиваться ежемесячно утратившим имущество",
+          "content": "Жителям Курской области, утратившим имущество в связи с боевыми действиями в регионе и наступлением ВСУ, российские власти должны будут ежемесячно выплачивать по 65 тысяч рублей. Это предполагает указ, который, как стало известно во вторник, подписал... [796 chars]",
+          "url": "https://www.svoboda.org/a/putin-rasporyadilsya-vyplachivatj-65-t-r-chasti-zhiteley-kurskoy-oblasti/33319370.html",
+          "image": "https://gdb.rferl.org/369BD266-DB48-4FCB-916B-7C4497B81C1C.jpg",
+          "publishedAt": "2025-02-18T18:28:59Z",
+          "source": {
+            "name": "Радио Свобода ",
+            "url": "https://www.svoboda.org"
+          }
+        },
+        {
+          "id": "6",
+          "title": "Sid Meier's Civilization 7: история многослойна, а игра",
+          "description": "Civilization VII — это только начало пути, впереди много патчей и дополнений. Но о «базе» можно говорить уже сейчас, тем более она получилась спорной.",
+          "content": "Civilization — это не просто игра, это культурный феномен. Она стоит в одном ряду с «Тетрисом» и Doom, как один из столпов игровой индустрии. Седьмая часть должна была стать новым витком в истории культовой серии, но вместо этого вызвала волну недово... [11146 chars]",
+          "url": "https://disgustingmen.com/games/sid-meiers-civilization-7-review/",
+          "image": "https://disgustingmen.com/wp-content/uploads/2025/02/civilization_7_13.jpg",
+          "publishedAt": "2025-02-18T17:50:37Z",
+          "source": {
+            "name": "Disgusting Men",
+            "url": "https://disgustingmen.com"
+          }
+        },
+        {
+          "id": "7",
+          "title": "Назван популярный \"кореец\" на вторичке РФ: к нему однозначно стоит присмотреться",
+          "description": "Kia Rio четвертой генерации (2017–2022 годы производства) – это качественный и надежный автомобиль, который не требует больших затрат на обслуживание. Он также хорошо оснащен для своего класса, рассказал эксперт «За рулем» Сергей Зиновьев.",
+          "content": "https://tarantas.news/posts/id54948-nazvan-populjarnyj-koreets-na-vtorichke-rf-k-nemu-odnoznachno-stoit-prismotretsja\nНазван популярный «кореец» на вторичке РФ: к нему однозначно стоит присмотреться | ТАРАНТАС НЬЮС\nKia Rio четвертой генерации (2017–2... [2675 chars]",
+          "url": "https://tarantas.news/posts/id54948-nazvan-populjarnyj-koreets-na-vtorichke-rf-k-nemu-odnoznachno-stoit-prismotretsja",
+          "image": "https://tarantas.news/uploads/prew/big_images/webp_version/p1IYE8FU41xnqX2cTzNB.webp",
+          "publishedAt": "2025-02-18T17:25:10Z",
+          "source": {
+            "name": "ТАРАНТАС НЬЮС",
+            "url": "https://tarantas.news"
+          }
+        },
+        {
+          "id": "8",
+          "title": "Avowed: поклонники Mass Effect в восторге от нового спутника",
+          "description": "Компаньон с харизмой и голосом, знакомым поклонникам культовой RPG, мгновенно стал любимцем игроков, вызывая ностальгию и восторг у фанатов жанра.",
+          "content": "18 февраля состоялся официальный релиз Avowed, новой RPG от Obsidian Entertainment, действие которой разворачивается во вселенной Pillars of Eternity. Фанаты, оформившие Premium Edition, получили доступ к игре на несколько дней раньше, и первое, что ... [2668 chars]",
+          "url": "https://www.goha.ru/avowed-poklonniki-mass-effect-v-vostorge-ot-novogo-sputnika-lamagn",
+          "image": "https://www.goha.ru/s/E:D3/3t/jeNneWm0GO.jpg",
+          "publishedAt": "2025-02-18T16:31:54Z",
+          "source": {
+            "name": "Goha.ru",
+            "url": "https://www.goha.ru"
+          }
+        },
+        {
+          "id": "9",
+          "title": "Мужчина собрал 8882 уникальных кирпича и попал в Книгу рекордов Гиннеса",
+          "description": "В США дедушка собрал самую большую коллекцию кирпича в мире — 8 882 уникальных кирпичей ᐅ TSN.ua (новости 1+1)",
+          "content": "87-летний дедушка из города Талса, штат Оклахома, США, попал в Книгу рекордов Гиннеса благодаря своему необычному хобби. За последние 40 лет своей жизни Клем Рейнкемайер собрал самую большую коллекцию кирпичей в мире. Каждый из 8882 уникальных кирпич... [2458 chars]",
+          "url": "https://tsn.ua/ru/tsikavinki/dedushka-sobral-samuyu-bolshuyu-kollekciyu-kirpichey-v-mire-foto-podrobnosti-2770131.html",
+          "image": "https://img.tsn.ua/cached/888/tsn-7a7afafe7a64cd96a891771cf6bf5b51/thumbs/1200x630/e1/56/f91206e82a8b647c25ee859d4dc556e1.jpeg",
+          "publishedAt": "2025-02-18T15:59:00Z",
+          "source": {
+            "name": "ТСН",
+            "url": "https://tsn.ua"
+          }
+        }
+      ],
+      "id": "general"
+    },
+    {
+      "list": [
+        {
+          "id": "10",
+          "title": "\"Разрушительная война с ядерной державой\": Вагенкнехт - о миссии НАТО на Украине",
+          "description": "EADaily, 19 февраля 2025. Участие военнослужащих бундесвера в якобы «миротворческой» миссии НАТО на Украине может втянуть Германию в «разрушительную войну» с ядерной державой Россией, констатировала председатель партии «Союз Сары Вагенкнехт — за разум и справедливость», депутат бундестага Сара Вагенкнехт.",
+          "content": "Участие военнослужащих бундесвера в якобы «миротворческой» миссии НАТО на Украине может втянуть Германию в «разрушительную войну» с ядерной державой Россией, констатировала председатель партии «Союз Сары Вагенкнехт — за разум и справедливость», депут... [2425 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/19/razrushitelnaya-voyna-s-yadernoy-derzhavoy-vagenkneht-o-missii-nato-na-ukraine",
+          "image": "https://img7.eadaily.com/r650x400/o/e68/aafc5b9261e7d2160773eddfbb9fe.jpg",
+          "publishedAt": "2025-02-19T06:55:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        },
+        {
+          "id": "11",
+          "title": "Долгожданное облегчение: цена электроэнергии и газа в Германии наконец резко снизилась",
+          "description": "В Германии, как и по всей Европе, вопреки воле избирателей, руководящие элиты отчаянно сопротивляется миру с Россией. Лютая русофобия приводит к экономическому краху, социальной нестабильности, но местные «лидеры» не отступают от своих глобалистских антироссийских настроений. Однако Россия все",
+          "content": "В Германии, как и по всей Европе, вопреки воле избирателей, руководящие элиты отчаянно сопротивляется миру с Россией. Лютая русофобия приводит к экономическому краху, социальной нестабильности, но местные «лидеры» не отступают от своих глобалистских ... [2075 chars]",
+          "url": "https://topcor.ru/56817-dolgozhdannoe-oblegchenie-cena-jelektrojenergii-i-gaza-v-germanii-nakonec-rezko-snizilas.html",
+          "image": "https://topcor.ru/uploads/posts/2025-02/680afbeeef_water-technology-steel-military-rust-army-1087304-pxhere_com.webp",
+          "publishedAt": "2025-02-19T06:53:27Z",
+          "source": {
+            "name": "Репортёр",
+            "url": "https://topcor.ru"
+          }
+        },
+        {
+          "id": "12",
+          "title": "Захарова: Западной Европе надо покаяться в \"реинкарнации нацизма\"",
+          "description": "EADaily, 19 февраля 2025. Странам западной Европы необходимо признать абсолютную ошибочность своих действий и покаяться в реинкарнации нацизма, заявила официальный представитель МИД РФ Мария Захарова.",
+          "content": "Странам западной Европы необходимо признать абсолютную ошибочность своих действий и покаяться в реинкарнации нацизма, заявила официальный представитель МИД РФ Мария Захарова.\n«Им [Западной Европе] надо покаяться, им надо раскаяться, им надо до этого ... [490 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/19/zaharova-zapadnoy-evrope-nado-pokayatsya-v-reinkarnacii-nacizma",
+          "image": "https://img7.eadaily.com/r650x400/o/6bc/8fc5245d80b4a20404964b9093305.jpeg",
+          "publishedAt": "2025-02-19T06:31:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        },
+        {
+          "id": "13",
+          "title": "В Чехии беженцы с Украины потеряют свой статус сразу после остановки боевых действий",
+          "description": "EADaily, 19 февраля 2025. После объявления перемирия или окончания военных действий на Украине ни один украинец в Чехии не получит статус временной защиты. Об этом 18 февраля сообщил министр внутренних дел республики Вит Ракушан.",
+          "content": "После объявления перемирия или окончания военных действий на Украине ни один украинец в Чехии не получит статус временной защиты. Об этом 18 февраля сообщил министр внутренних дел республики Вит Ракушан.\nПо его словам, автоматически статус временной ... [1404 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/19/v-chehii-bezhency-s-ukrainy-poteryayut-svoy-status-srazu-posle-ostanovki-boevyh-deystviy",
+          "image": "https://img7.eadaily.com/r650x400/o/64e/c1c79b6831ab65e568ec02c5cee79.jpeg",
+          "publishedAt": "2025-02-19T06:00:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        },
+        {
+          "id": "14",
+          "title": "\"Вы радуетесь смертям!\": Вагенкнехт обрушилась на проукраинского телеведущего",
+          "description": "EADaily, 19 февраля 2025. Депутат бундестага Сара Вагенкнехт раскритиковала немецкого журналиста Эльмара Тевессена, назвавшего «хорошей новостью» продолжение конфликта на Украине после инаугурации Дональда Трампа.",
+          "content": "Депутат бундестага Сара Вагенкнехт раскритиковала немецкого журналиста Эльмара Тевессена, назвавшего «хорошей новостью» продолжение конфликта на Украине после инаугурации Дональда Трампа.\nСара Вагенкнехт прокомментировала опубликованный в социальных ... [1166 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/19/vy-raduetes-smertyam-vagenkneht-obrushilas-na-proukrainskogo-televedushchego",
+          "image": "https://img1.eadaily.com/r650x400/o/02f/b4424f4beacfa7c90d483726e6653.jpeg",
+          "publishedAt": "2025-02-19T05:21:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        },
+        {
+          "id": "15",
+          "title": "Дубинский: Охраняющий Зеленского британский спецназ может превратиться в конвой",
+          "description": "EADaily, 19 февраля 2025. Действия главы киевского режима Владимира Зеленского в настоящий момент полностью контролируются из Лондона, его охраняет британский спецназ.",
+          "content": "Действия главы киевского режима Владимира Зеленского в настоящий момент полностью контролируются из Лондона, его охраняет британский спецназ.\nОб этом напомнил в своем Telegram-канале депутат Верховной рады Александр Дубинский, который в настоящее вре... [765 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/19/dubinskiy-ohranyayushchiy-zelenskogo-britanskiy-specnaz-mozhet-prevratitsya-v-konvoy",
+          "image": "https://img6.eadaily.com/r650x400/o/d77/fd1e9206f90322eeee9241d791ffc.jpeg",
+          "publishedAt": "2025-02-19T05:13:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        },
+        {
+          "id": "16",
+          "title": "Бараны из ЕС, Киев в \"Москве\", тетушка Камала и Пидаля: утренний кофе с EADaily",
+          "description": "EADaily, 19 февраля 2025. Не успели европейские полудурки вместе с Просроченным очухаться от телефонного разговора Путина с Трампом, как получили второй удар — встречу в Саудовской Аравии. После первого удара один даже расплакался — что же будет после второго? И весь для них ужас…",
+          "content": "Не успели европейские полудурки вместе с Просроченным очухаться от телефонного разговора Путина с Трампом, как получили второй удар — встречу в Саудовской Аравии. После первого удара один даже расплакался — что же будет после второго? И весь для них ... [4818 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/19/barany-iz-es-kiev-v-moskve-tetushka-kamala-i-pidalya-utrenniy-kofe-s-eadaily",
+          "image": "https://img2.eadaily.com/r650x400/o/1d3/ac5fdc0052842e7f29c07d872da6b.jpeg",
+          "publishedAt": "2025-02-19T05:06:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        },
+        {
+          "id": "17",
+          "title": "В Словакии может быть проведен референдум по вопросу отмены санкций против России",
+          "description": "EADaily, 19 февраля 2025. В Словакии завершили сбор подписей под петицией за проведение референдума об отмене санкций против России. Об этом сообщил лидер словацкого гражданского объединения «Брат за брата» Матуш Алекс.",
+          "content": "В Словакии завершили сбор подписей под петицией за проведение референдума об отмене санкций против России. Об этом сообщил лидер словацкого гражданского объединения «Брат за брата» Матуш Алекс.\n«Хочу проинформировать о завершении сбора подписей за от... [517 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/19/v-slovakii-mozhet-byt-proveden-referendum-po-voprosu-otmeny-sankciy-protiv-rossii",
+          "image": "https://img5.eadaily.com/r650x400/o/c6d/0df35e26e38186209976ec2ef1dbe.jpeg",
+          "publishedAt": "2025-02-19T05:02:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        },
+        {
+          "id": "18",
+          "title": "Трамп назвал нового врага США",
+          "description": "Раньше Вашингтон вводил против Венесуэлы масштабные санкции, поставил Каракас в затруднительное положение и все было хорошо, заявил президент США Дональд Трамп. Но потом пришел Джо Байден и все испортил, посетовал он.",
+          "content": "Трамп назвал нового врага США Трамп назвал Венесуэлу врагом США и допустил введение санкций\nФото: Shutterstock|FOTODOM\nДональд Трамп\nВашингтон вводил против Венесуэлы масштабные санкции, поставил Каракас в затруднительное положение и все было хорошо,... [1188 chars]",
+          "url": "https://news.ru/usa/tramp-nazval-novogo-vraga-ssha/",
+          "image": "https://images.news.ru/photo/8a77966c-ee70-11ef-96e2-02420a0000c9_760.jpg",
+          "publishedAt": "2025-02-19T03:24:48Z",
+          "source": {
+            "name": "NEWS.ru",
+            "url": "https://news.ru"
+          }
+        },
+        {
+          "id": "19",
+          "title": "В США сообщили о российском военном самолете около Аляски",
+          "description": "EADaily, 19 февраля 2025. Североамериканское командование ПВО (NORAD) в среду заявило, что якобы обнаружило и отследило полет российского военного самолета в международном воздушном пространстве рядом с Аляской.",
+          "content": "Североамериканское командование ПВО (NORAD) в среду заявило, что якобы обнаружило и отследило полет российского военного самолета в международном воздушном пространстве рядом с Аляской.\n«NORAD обнаружила и отследила российский военный самолет, летевш... [660 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/19/v-ssha-soobshchili-o-rossiyskom-voennom-samolete-okolo-alyaski",
+          "image": "https://img8.eadaily.com/r650x400/o/fd0/b11ed79e6af921aa0eb8df2554c67.png",
+          "publishedAt": "2025-02-19T03:15:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        }
+      ],
+      "id": "world"
+    },
+    {
+      "list": [
+        {
+          "id": "20",
+          "title": "Зеленский \"реально разозлил\" Трампа. Чем? - Медведев",
+          "description": "EADaily, 19 февраля 2025. Заместитель председателя Совета безопасности России Дмитрий Медведев отметил, что главе киевского режима Владимиру Зеленскому удалось реально разозлить президента США Дональда Трампа.",
+          "content": "Заместитель председателя Совета безопасности России Дмитрий Медведев отметил, что главе киевского режима Владимиру Зеленскому удалось реально разозлить президента США Дональда Трампа.\n«Ряженая кукла, изображающая из себя президента распавшейся страны... [2306 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/19/zelenskiy-realno-razozlil-trampa-chem-medvedev",
+          "image": "https://img2.eadaily.com/r650x400/o/1ed/04593bf1724234b85f4a0216b6595.jpeg",
+          "publishedAt": "2025-02-19T06:25:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        },
+        {
+          "id": "21",
+          "title": "Медведев указал, какие провокации можно ждать от Зеленского для срыва урегулирования",
+          "description": "EADaily, 19 февраля 2025. Загнанная в угол «крыса с бегающими глазками» — глава киевского режима Владимир Зеленский будет готов на любую провокацию, чтобы сорвать урегулирование на Украине и продолжить войну. Об этом заявил зампред Совбеза РФ Дмитрий Медведев.",
+          "content": "Загнанная в угол «крыса с бегающими глазками» — глава киевского режима Владимир Зеленский будет готов на любую провокацию, чтобы сорвать урегулирование на Украине и продолжить войну. Об этом заявил зампред Совбеза РФ Дмитрий Медведев.\n«Крыса загнана ... [871 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/19/medvedev-ukazal-kakie-provokacii-mozhno-zhdat-ot-zelenskogo-dlya-sryva-uregulirovaniya",
+          "image": "https://img2.eadaily.com/r650x400/o/11d/bcaba7fa6fd785e7c30dd0992b24c.jpeg",
+          "publishedAt": "2025-02-19T06:09:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        },
+        {
+          "id": "22",
+          "title": "Экс-депутата Госдумы Пономарева****** обвинили в насильственном захвате власти",
+          "description": "EADaily, 19 февраля 2025. На бывшего депутата Госдумы Илью Пономарева****** возбуждены уголовные дела по статьям о насильственном захвате власти и организации террористического сообщества. Об этом сообщили в Центре общественных связей ФСБ России.",
+          "content": "На бывшего депутата Госдумы Илью Пономарева****** возбуждены уголовные дела по статьям о насильственном захвате власти и организации террористического сообщества. Об этом сообщили в Центре общественных связей ФСБ России.\n«Следственным управлением Фед... [3475 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/19/eks-deputata-gosdumy-ponomareva-obvinili-v-nasilstvennom-zahvate-vlasti",
+          "image": "https://img3.eadaily.com/r650x400/o/a8f/2deb1cf1b620b569c76c74f11a253.jpeg",
+          "publishedAt": "2025-02-19T05:45:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        },
+        {
+          "id": "23",
+          "title": "Жилищные сертификаты в Курской области: деньги есть, но есть и проблемы",
+          "description": "В Курской области активно продолжается программа предоставления жилищных сертификатов для жителей приграничных районов. С момента её запуска уже выдано 6697 сертификатов.",
+          "content": "Жилищные сертификаты в Курской области: деньги есть, но есть и проблемы\n1:31 Your browser does not support the audio element. Недвижимость\nВ Курской области активно продолжается программа предоставления жилищных сертификатов для жителей приграничных ... [1618 chars]",
+          "url": "https://www.pravda.ru/news/realty/2179968-zhalischnye-sertifikaty-kursk/",
+          "image": "https://img.pravda.ru/image/preview/article/9/6/8/2179968_amp.jpeg",
+          "publishedAt": "2025-02-19T00:14:00Z",
+          "source": {
+            "name": "Правда.Ру",
+            "url": "https://www.pravda.ru"
+          }
+        },
+        {
+          "id": "24",
+          "title": "Запрет на авиаперевозку икры продлят и расширят - Чукотка и Хабаровский край включены в список",
+          "description": "Ограничения на авиаперевозку икры могут продлить до 1 августа 2027 года и распространить на Чукотку и Хабаровский край.",
+          "content": "Запрет на авиаперевозку икры продлят и расширят — Чукотка и Хабаровский край включены в список\n1:15 Your browser does not support the audio element. Экономика\nГосдума приняла в первом чтении законопроект о продлении ограничений на авиаперевозку икры,... [1588 chars]",
+          "url": "https://www.pravda.ru/news/economics/2179765-ekonomika/",
+          "image": "https://img.pravda.ru/image/preview/article/7/6/5/2179765_amp.jpeg",
+          "publishedAt": "2025-02-19T00:00:00Z",
+          "source": {
+            "name": "Правда.Ру",
+            "url": "https://www.pravda.ru"
+          }
+        },
+        {
+          "id": "25",
+          "title": "По словам Трампа, финансовую помощь Украине придется вернуть, или объяснить трату денег",
+          "description": "Трамп назвал сумму, которую Украина задолжала США. Трамп заявил, что Украине придется объяснить, куда ушли американские деньги.",
+          "content": "Президент США Дональд Трамп. Фото: Reuters\nВыступая на брифинге перед журналистами президент США Дональд Трамп заявил о возвращении выделенных Украине средств, которые предоставляла администрация Джо Байдена. Нынешний глава Белого дома назвал приблиз... [1215 chars]",
+          "url": "https://armiya.novyny.live/ru/dovedetsia-povernuti-tramp-nazvav-sumu-dopomogi-ssha-ukrayini-234593.html",
+          "image": "https://novyny.live/cdn-cgi/imagedelivery/4_JwVYxosZqzJ7gIDJgTLA/989190b3-546d-4565-3884-3d754cad1500/16x9",
+          "publishedAt": "2025-02-18T23:56:30Z",
+          "source": {
+            "name": "Новини Live",
+            "url": "https://armiya.novyny.live"
+          }
+        },
+        {
+          "id": "26",
+          "title": "Трамп отверг опасения Украины в связи с её якобы отстранением от переговоров",
+          "description": "По мнению президента США, Украина должна была бы раньше вступить в переговоры с Россией",
+          "content": "Президент США Дональд Трамп отверг опасения Украины в связи с якобы её отстранением от переговоров между делегациями США и России, которые состоялись в Саудовской Аравии во вторник. Об этом сообщило агентство Reuters.\nТрамп также заявил, что не будет... [963 chars]",
+          "url": "https://www.svoboda.org/a/tramp-otverg-opaseniya-ukrainy-v-svyazi-s-eyo-yakoby-otstraneniem-ot-peregovorov-ssha-i-rossii/33319572.html",
+          "image": "https://gdb.rferl.org/62F82A6B-6DE7-4010-8350-237003710214.jpg",
+          "publishedAt": "2025-02-18T22:14:54Z",
+          "source": {
+            "name": "Радио Свобода ",
+            "url": "https://www.svoboda.org"
+          }
+        },
+        {
+          "id": "27",
+          "title": "В Сумах 18 февраля прогремели взрывы",
+          "description": "В Сумах прогремели взрывы, их последствия выясняются.",
+          "content": "Взрыв в городе. Иллюстративное фото: informator.ua\nВ Сумах во вторник, 18 февраля, прогремели взрывы. Их причины и последствия выясняются.\nОб этом сообщают местные Telegram-каналы.\nЧитайте также:\nВзрывы в Сумах\nРоссийские захватчики не прекращают нан... [675 chars]",
+          "url": "https://news.novyny.live/ru/u-sumakh-prolunali-vibukhi-234568.html",
+          "image": "https://novyny.live/cdn-cgi/imagedelivery/4_JwVYxosZqzJ7gIDJgTLA/1a81b3ef-a43b-4b99-5e96-633707a70f00/16x9",
+          "publishedAt": "2025-02-18T22:08:14Z",
+          "source": {
+            "name": "news.novyny.live",
+            "url": "https://news.novyny.live"
+          }
+        },
+        {
+          "id": "28",
+          "title": "Россия налаживает выпуск реактивного аналога Shahed-238 - \"Герань-3\" - ГУР",
+          "description": "EADaily, 18 февраля 2025. Россия модернизировала «Шахеды» (так на Украине называют российские дроны-камикадзе «Герань-2») и другие ударные беспилотники. Об этом сообщает издание «Страна» со ссылкой на Главное управление разведки (ГУР) Минобороны Украины.",
+          "content": "Россия модернизировала «Шахеды» (так на Украине называют российские дроны-камикадзе «Герань-2») и другие ударные беспилотники. Об этом сообщает издание «Страна» со ссылкой на Главное управление разведки (ГУР) Минобороны Украины.\nПо данным разведки, с... [648 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/18/rossiya-nalazhivaet-vypusk-reaktivnogo-analoga-shahed-238-geran-3-gur",
+          "image": "https://img8.eadaily.com/r650x400/o/7c6/afa08f5f738c446de4ce0de17cea8.jpeg",
+          "publishedAt": "2025-02-18T20:57:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        },
+        {
+          "id": "29",
+          "title": "\"Андреевский мешок\": ВС России заняли Улаклы с гарнизоном ВСУ - Мирошников",
+          "description": "EADaily, 18 февраля 2025. Российская армия заняла Улаклы в «Андреевском мешке» на кураховском направлении, ВСУ при этом не удалось вывести всех своих военнослужащих из села. Об этом сообщает украинский военкор Богдан Мирошников.",
+          "content": "Российская армия заняла Улаклы в «Андреевском мешке» на кураховском направлении, ВСУ при этом не удалось вывести всех своих военнослужащих из села. Об этом сообщает украинский военкор Богдан Мирошников.\n«К сожалению, из Улаклов вышли не все. Есть пог... [993 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/18/andreevskiy-meshok-vs-rossii-zanyali-ulakly-s-garnizonom-vsu-miroshnikov",
+          "image": "https://img2.eadaily.com/r650x400/o/948/82969cf39622bb8b781e6f13ec344.jpeg",
+          "publishedAt": "2025-02-18T20:07:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        }
+      ],
+      "id": "nation"
+    },
+    {
+      "list": [
+        {
+          "id": "30",
+          "title": "Умный минивэн, который все делает сам: пока что только в Китае, но скоро и в России",
+          "description": "В Китае состоялся запуск нового Voyah Dreamer с автопилотом Huawei ADS 3.0",
+          "content": "https://speedme.ru/posts/id-72007-zapuschena-novaja-model-voyah-dreamer-po-tsene-ot-359-900-juanej\nУмный минивэн, который все делает сам: пока что только в Китае, но скоро и в России | SpeedMe\nВ Китае состоялся запуск нового Voyah Dreamer с автопилот... [1523 chars]",
+          "url": "https://speedme.ru/posts/id-72007-zapuschena-novaja-model-voyah-dreamer-po-tsene-ot-359-900-juanej",
+          "image": "https://speedme.ru/uploads/webp/c81ZJYJuxGya13N3ZB30.webp",
+          "publishedAt": "2025-02-19T08:05:22Z",
+          "source": {
+            "name": "SPEEDME.RU",
+            "url": "https://speedme.ru"
+          },
+          "isLiked": false
+        },
+        {
+          "id": "31",
+          "title": "От 1,47 млн рублей - Changan до сих пор распродает новые седаны Alsvin 2023 года выпуска",
+          "description": "Компания Changan до сих пор распродает седаны Alsvin 2023 года выпуска. Выгода достигает 280 тыс. рублей, а приобрести автомобиль можно от 1 470 000 рублей. Это выяснил портал Tarantas.news в ходе мониторинга прайс-листов китайской марки.",
+          "content": "https://tarantas.news/posts/id54969-ot-147-mln-rublej-changan-do-sih-por-rasprodaet-novye-sedany-alsvin-2023-goda-vypuska\nОт 1,47 млн рублей - Changan до сих пор распродает новые седаны Alsvin 2023 года выпуска | ТАРАНТАС НЬЮС\nКомпания Changan до сих... [1897 chars]",
+          "url": "https://tarantas.news/posts/id54969-ot-147-mln-rublej-changan-do-sih-por-rasprodaet-novye-sedany-alsvin-2023-goda-vypuska",
+          "image": "https://tarantas.news/uploads/prew/big_images/webp_version/1yzJXkS9js8c9ffzFnJH.webp",
+          "publishedAt": "2025-02-19T07:49:27Z",
+          "source": {
+            "name": "ТАРАНТАС НЬЮС",
+            "url": "https://tarantas.news"
+          }
+        },
+        {
+          "id": "32",
+          "title": "В России продают 17-летнюю Toyota Camry в состоянии новой машины: цена - запредельная",
+          "description": "«Российская газета» нашла объявление о продаже модели Toyota Camry 2008 года выпуска, которая пребывает в состоянии новой машины.",
+          "content": "В России продают 17-летнюю Toyota Camry в состоянии новой машины: цена - запредельная\nВ РФ продают Toyota Camry 2008 года в состоянии нового авто за 5,8 млн рублей\n«Российская газета» нашла объявление о продаже модели Toyota Camry 2008 года выпуска, ... [874 chars]",
+          "url": "https://tarantas.news/posts/id54965-v-rossii-prodajut-17-letnjuju-toyota-camry-v-sostojanii-novoj-mashiny-tsena-zapredelnaja",
+          "image": "https://tarantas.news/uploads/prew/big_images/webp_version/pLLxfX18BlRXKsaM9xnV.webp",
+          "publishedAt": "2025-02-19T07:06:06Z",
+          "source": {
+            "name": "ТАРАНТАС НЬЮС",
+            "url": "https://tarantas.news"
+          }
+        },
+        {
+          "id": "33",
+          "title": "Ошибка в системе контроля выбросов: владельцам Silverado 1500 рекомендуют обновиться",
+          "description": "GM объявила отзыв пикапов Chevrolet Silverado для обновления ПО",
+          "content": "Ошибка в системе контроля выбросов: владельцам Silverado 1500 рекомендуют обновиться\n© A. Krivonosov\nGM объявила отзыв пикапов Chevrolet Silverado для обновления ПО\nАвтор: Диана Дегтярева , редактор 19 февраля 2025\nGeneral Motors выпустила сервисный ... [1010 chars]",
+          "url": "https://speedme.ru/posts/id-72006-oshibka-v-sisteme-kontrolja-vybrosov-vladeltsam-silverado-1500-rekomendujut-obnovitsja",
+          "image": "https://speedme.ru/uploads/webp/5geZWYI0v4nJeIXxtng2.webp",
+          "publishedAt": "2025-02-19T06:55:18Z",
+          "source": {
+            "name": "SPEEDME.RU",
+            "url": "https://speedme.ru"
+          }
+        },
+        {
+          "id": "34",
+          "title": "Крупнейший автопроизводитель Китая терпит бедствие: компания пошла на решительный шаг",
+          "description": "Прошли кадровые перестановки в SAIC: более 60 руководителей покинули посты",
+          "content": "Крупнейший автопроизводитель Китая терпит бедствие: компания пошла на решительный шаг\n© RusPhotoBank\nПрошли кадровые перестановки в SAIC: более 60 руководителей покинули посты\nАвтор: Дмитрий Новиков , редактор 19 февраля 2025\nКомпания SAIC Motor пров... [990 chars]",
+          "url": "https://speedme.ru/posts/id-72005-krupnejshij-avtoproizvoditel-kitaja-terpit-bedstvie-kompanija-poshla-na-reshitelnyj-shag",
+          "image": "https://speedme.ru/uploads/webp/Rxd4p0xwNhdYWcOXuoIL.webp",
+          "publishedAt": "2025-02-19T06:45:19Z",
+          "source": {
+            "name": "SPEEDME.RU",
+            "url": "https://speedme.ru"
+          }
+        },
+        {
+          "id": "35",
+          "title": "В Калуге начали выпускать популярные кроссоверы Haval",
+          "description": "Как выяснила «Российская газета», на предприятии «Автомобильные технологии» было запущено серийное производство кроссоверов Haval M6. Это на данный момент лишь крупноузловая сборка. Во второй половине 2025 года стартует выпуск модели по полному циклу со сваркой и окраской.",
+          "content": "https://tarantas.news/posts/id54962-v-kaluge-nachali-vypuskat-populjarnye-krossovery-haval\nВ Калуге начали выпускать популярные кроссоверы Haval | ТАРАНТАС НЬЮС\nКак выяснила «Российская газета», на предприятии «Автомобильные технологии» было запущено... [1716 chars]",
+          "url": "https://tarantas.news/posts/id54962-v-kaluge-nachali-vypuskat-populjarnye-krossovery-haval",
+          "image": "https://tarantas.news/uploads/prew/big_images/webp_version/sCyDibJWZ4KaxFh0ENNi.webp",
+          "publishedAt": "2025-02-19T06:40:21Z",
+          "source": {
+            "name": "ТАРАНТАС НЬЮС",
+            "url": "https://tarantas.news"
+          }
+        },
+        {
+          "id": "36",
+          "title": "Китайские EV обгоняют мировых гигантов: разрыв впечатляет",
+          "description": "Глава BYD: китайские электромобили опережают конкурентов на 3-5 лет",
+          "content": "Китайские EV обгоняют мировых гигантов: разрыв впечатляет\n© B. Naumkin\nГлава BYD: китайские электромобили опережают конкурентов на 3-5 лет\nАвтор: Диана Дегтярева , редактор 19 февраля 2025\nРуководитель BYD Ван Чуаньфу заявил, что китайские электромоб... [880 chars]",
+          "url": "https://speedme.ru/posts/id-72003-kitajskie-ev-obgonjajut-mirovyh-gigantov-razryv-vpechatljaet",
+          "image": "https://speedme.ru/uploads/webp/huiCXDdYqs3ia9cjuwcc.webp",
+          "publishedAt": "2025-02-19T06:09:12Z",
+          "source": {
+            "name": "SPEEDME.RU",
+            "url": "https://speedme.ru"
+          }
+        },
+        {
+          "id": "37",
+          "title": "Mitsubishi Grandis вернется: минивэн превратится в кроссовер",
+          "description": "Компания Mitsubishi официально сообщила о возвращении в модельный ряд автомобиля под названием Grandis. В 2000-х годах под этим именем продавался минивэн, который был доступен и на российском рынке. Теперь же это название получит кроссовер, предназначенный для молодых семей. Презентация новинки состоится в июле.",
+          "content": "https://tarantas.news/posts/id54961-mitsubishi-grandis-vernetsja-miniven-prevratitsja-v-krossover\nMitsubishi Grandis вернется: минивэн превратится в кроссовер | ТАРАНТАС НЬЮС\nКомпания Mitsubishi официально сообщила о возвращении в модельный ряд автом... [1802 chars]",
+          "url": "https://tarantas.news/posts/id54961-mitsubishi-grandis-vernetsja-miniven-prevratitsja-v-krossover",
+          "image": "https://tarantas.news/uploads/prew/big_images/webp_version/6o6Ov2SkujgTLYdn7bo5.webp",
+          "publishedAt": "2025-02-19T06:03:11Z",
+          "source": {
+            "name": "ТАРАНТАС НЬЮС",
+            "url": "https://tarantas.news"
+          }
+        },
+        {
+          "id": "38",
+          "title": "У Ford нет другого выхода: компания сокращает все ради экономии",
+          "description": "Ford сокращает бонусы: 1650 менеджеров останутся без выплат",
+          "content": "У Ford нет другого выхода: компания сокращает все ради экономии\n© B. Naumkin\nFord сокращает бонусы: 1650 менеджеров останутся без выплат\nАвтор: Диана Дегтярева , редактор 19 февраля 2025\nКомпания Ford продолжает оптимизировать расходы и в 2025 году л... [1087 chars]",
+          "url": "https://speedme.ru/posts/id-71998-u-ford-net-drugogo-vyhoda-kompanija-sokraschaet-vse-radi-ekonomii",
+          "image": "https://speedme.ru/uploads/webp/fxZatMZhy9C1GZ2owpQJ.webp",
+          "publishedAt": "2025-02-19T06:00:13Z",
+          "source": {
+            "name": "SPEEDME.RU",
+            "url": "https://speedme.ru"
+          }
+        },
+        {
+          "id": "39",
+          "title": "В Россию привезли Mercedes-AMG G63 от Brabus: цена впечатляет",
+          "description": "Внедорожник Mercedes-AMG G63 в обвесе Brabus отличается исключительно внешне. По технической части - это традиционный, но «заряженный» «Гелендваген».",
+          "content": "В РФ начали продавать Mercedes-AMG G63 в обвесе Brabus за 43 млн рублей\nВнедорожник Mercedes-AMG G63 в обвесе Brabus отличается исключительно внешне. По технической части - это традиционный, но «заряженный» «Гелендваген».\nфото: www.brabus.com\nВ РФ на... [1395 chars]",
+          "url": "https://tarantas.news/posts/id54954-v-rossiju-privezli-mercedes-amg-g63-ot-brabus-tsena-vpechatljaet",
+          "image": "https://tarantas.news/uploads/prew/big_images/webp_version/NvoWvNC9vMxliFjr5Hbd.webp",
+          "publishedAt": "2025-02-19T04:19:12Z",
+          "source": {
+            "name": "ТАРАНТАС НЬЮС",
+            "url": "https://tarantas.news"
+          }
+        }
+      ],
+      "id": "business"
+    },
+    {
+      "list": [
+        {
+          "id": "40",
+          "title": "В Евросоюзе запущен магазин приложений Aptoide со старыми играми для iPhone",
+          "description": "Идея Aptoide заключается в том, чтобы пользователи старых iPhone могли запускать старые игры, которые уже недоступны в App Store или не поддерживаются на новых устройствах.",
+          "content": "В Евросоюзе запустили альтернативный магазин приложений Aptoide для iPhone и iPad.\nВ Aptoide доступно только 23 игры. Однако это старые версии ранее популярных игр.\nИдея Aptoide заключается в том, чтобы пользователи старых iPhone могли запускать стар... [762 chars]",
+          "url": "https://www.iphones.ru/iNotes/v-evrosoyuze-zapushchen-magazin-prilozheniy-aptoide-so-starymi-igrami-dlya-iphone",
+          "image": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2025%2F02%2Fapptoide.jpg",
+          "publishedAt": "2025-02-19T06:13:46Z",
+          "source": {
+            "name": "iPhones.ru",
+            "url": "https://www.iphones.ru"
+          }
+        },
+        {
+          "id": "41",
+          "title": "Прорыв Xiaomi: электрокар SU7 уже обогнал Tesla Model 3 на китайском рынке",
+          "description": "В условиях жесткой конкуренции на рынке электромобилей Китая далеко не каждому автопроизводителю удается добиться успеха, однако компания Xiaomi совершила настоящий прорыв. Первый электрический автомобиль бренда SU7 сумел обойти Tesla Model 3 по продажам на домашнем рынке, что стало важным достижением для дебютной модели марки.",
+          "content": "Компания Xiaomi обошла Tesla в Китае: электромобиль SU7 стал хитом продаж\nВ условиях жесткой конкуренции на рынке электромобилей Китая далеко не каждому автопроизводителю удается добиться успеха, однако компания Xiaomi совершила настоящий прорыв. Пер... [2197 chars]",
+          "url": "https://tarantas.news/posts/id54953-xiaomi-oboshla-tesla-v-kitae-elektromobil-su7-stal-hitom-prodazh",
+          "image": "https://tarantas.news/uploads/prew/big_images/webp_version/bCuDjUFlJtGAk14nX0TP.webp",
+          "publishedAt": "2025-02-19T04:11:34Z",
+          "source": {
+            "name": "ТАРАНТАС НЬЮС",
+            "url": "https://tarantas.news"
+          }
+        },
+        {
+          "id": "42",
+          "title": "Дроны атаковали НПЗ \"Роснефти\" в Самарской области",
+          "description": "Это как минимум 18-й российский нефтяной объект, атакованный в 2025 году",
+          "content": "В Самарской области украинские беспилотники атаковали Сызранский нефтеперерабатывающий завод. Об этом сообщил в телеграме губернатор Вячеслав Федорищев. Он утверждает, что пострадавших нет.\nОчевидцы сообщают, что после атаки БПЛА на предприятии начал... [1190 chars]",
+          "url": "https://www.svoboda.org/a/drony-atakovali-npz-rosnefti-v-samarskoy-oblasti/33319930.html",
+          "image": "https://gdb.rferl.org/64DBC914-F2A6-4C6C-B4EB-C65C9BBE7EE5.jpg",
+          "publishedAt": "2025-02-19T03:45:20Z",
+          "source": {
+            "name": "Радио Свобода ",
+            "url": "https://www.svoboda.org"
+          }
+        },
+        {
+          "id": "43",
+          "title": "Чем Xbox Game Pass порадует до конца февраля 2025 - Microsoft раскрыла вторую волну игр для подписчиков на консолях Xbox и ПК",
+          "description": "Всего три игры.",
+          "content": "Компания Microsoft поделилась списком игр, которые пополнят каталог онлайн-сервиса Game Pass во второй половине февраля. Так, пользователей тарифного плана Ultimate ждут приключенческий боевик Watch Dogs: Legion, спортивный симулятор EA Sports F1 24 ... [530 chars]",
+          "url": "https://gamemag.ru/news/192947/xbox-game-pass-february-2025-wave-2",
+          "image": "https://gamemag.ru/images/cache/News/News192947/5a6769edc3-2_1390x600.jpg",
+          "publishedAt": "2025-02-18T18:01:00Z",
+          "source": {
+            "name": "GameMAG",
+            "url": "https://gamemag.ru"
+          }
+        },
+        {
+          "id": "44",
+          "title": "Халява заканчивается: Nintendo закроет бонусную програму Gold Points в марте",
+          "description": "За золотые очки можно было списать до 100% от стоимости игры.",
+          "content": "Японская компания Nintendo приняла решение о сворачивании бонусной программы My Nintendo Gold Points. Изменения вступят в силу уже с 25 марта.\nИнициатива была запущена в 2016 году параллельно обновлению сервиса Nintendo Account. Согласно задумке, при... [872 chars]",
+          "url": "https://gamemag.ru/news/192949/nintendo-no-gold-point",
+          "image": "https://gamemag.ru/images/cache/News/News192949/b050363800-2_1390x600.jpg",
+          "publishedAt": "2025-02-18T16:46:40Z",
+          "source": {
+            "name": "GameMAG",
+            "url": "https://gamemag.ru"
+          }
+        },
+        {
+          "id": "45",
+          "title": "Вы не сможете использовать ваучеры Nintendo для покупки эксклюзивов Switch 2 - имейте в виду",
+          "description": "Важная новость от Nintendo.",
+          "content": "В 2019 году Nintendo запустила программу ваучеров для подписчиков Nintendo Switch Online — два цифровых ваучера можно купить за $99,99 в США или 9,990 йен в Японии, а затем обменять каждый на любой эксклюзив компании для Switch.\nТаким образом, америк... [1071 chars]",
+          "url": "https://gamemag.ru/news/192946/nintendo-switch-game-vouchers-offer-wont-count-for-switch-2-games-nintendo-says",
+          "image": "https://gamemag.ru/images/cache/News/News192946/2fa920a64f-2_1390x600.jpg",
+          "publishedAt": "2025-02-18T16:32:00Z",
+          "source": {
+            "name": "GameMAG",
+            "url": "https://gamemag.ru"
+          }
+        },
+        {
+          "id": "46",
+          "title": "Начались первые выплаты клиентам обанкротившейся биржи FTX",
+          "description": "Клиенты обанкротившейся криптовалютной биржи FTX с суммой требований до $50 000 начали получать возмещение средств через распределительные платформы Kraken и",
+          "content": "Клиенты обанкротившейся криптовалютной биржи FTX с суммой требований до $50 000 начали получать возмещение средств через распределительные платформы Kraken и Bitgo. Как сообщает пользователь Arkham в социальной сети X, первая волна кредиторов получит... [1150 chars]",
+          "url": "https://www.ixbt.com/live/crypto/nachalis-pervye-vyplaty-klientam-obankrotivsheysya-birzhi-ftx.html",
+          "image": "https://img.ixbt.site/live/topics/preview/00/09/87/90/7646b89c9f.jpg",
+          "publishedAt": "2025-02-18T16:09:39Z",
+          "source": {
+            "name": "iXBT.com - новости техники и технологий",
+            "url": "https://www.ixbt.com"
+          }
+        },
+        {
+          "id": "47",
+          "title": "AMM, боты и бессрочные конракты",
+          "description": "На этой неделе в центре внимания оказались три направления криптоиндустрии: AMM, торговые боты и бессрочные контракты",
+          "content": "На этой неделе в центре внимания оказались три направления криптоиндустрии: AMM, торговые боты и бессрочные фьючерсы\nПротоколы автоматизированных маркетмейкеров (AMM) — UNI, CAKE и PENDLE — растут после запуска Unichain от Uniswap и укрепления позици... [3655 chars]",
+          "url": "https://ru.beincrypto.com/kriptonarrativy-nedeli/",
+          "image": "https://ru.beincrypto.com/wp-content/uploads/2025/01/bic_altcoins-covers_coins_bullish-2.jpg.optimal.jpg",
+          "publishedAt": "2025-02-18T15:59:00Z",
+          "source": {
+            "name": "BeInCrypto Russia",
+            "url": "https://ru.beincrypto.com"
+          }
+        },
+        {
+          "id": "48",
+          "title": "Эксперты отметили оптимизм в опционах с погашением после хардфорка Pectra",
+          "description": "QCP Capital: интерес к колл-опционам с экспирациями после хардфорка Pectra в сети Ethereum формирует новое позиционирование рынка криптовалют.",
+          "content": "Эксперты отметили оптимизм в опционах с погашением после хардфорка Pectra\nИнтерес к колл-опционам с экспирациями после хардфорка Pectra в сети Ethereum формирует новое позиционирование рынка криптовалют на фоне неопределенности вокруг действий Трампа... [1522 chars]",
+          "url": "https://forklog.com/news/eksperty-otmetili-optimizm-v-optsionah-s-pogasheniem-posle-hardforka-pectra",
+          "image": "https://forklog.com/wp-content/uploads/Analiz-kriptorynka-yanvar-2023-obnovlenii-Ethereum-Shanghai.webp",
+          "publishedAt": "2025-02-18T15:34:49Z",
+          "source": {
+            "name": "ForkLog",
+            "url": "https://forklog.com"
+          }
+        },
+        {
+          "id": "49",
+          "title": "Standard Chartered спрогнозировал рост покупок биткоина суверенными фондами",
+          "description": "Все больше суверенных фондов начнут инвестировать в биткоин — аналитики Standard Chartered.",
+          "content": "Standard Chartered спрогнозировал рост покупок биткоина суверенными фондами\nВсе больше суверенных фондов начнут инвестировать в биткоин. Об этом пишет The Block со ссылкой на аналитиков Standard Chartered.\nИнтерес государственных структур к криптовал... [1227 chars]",
+          "url": "https://forklog.com/news/standard-chartered-sprognoziroval-rost-pokupok-bitkoina-suverennymi-fondami",
+          "image": "https://forklog.com/wp-content/uploads/Bitkoin-luchshee-sredstvo-sberezheniya.-Bitcoin-is-the-best-investment-2.webp",
+          "publishedAt": "2025-02-18T15:03:50Z",
+          "source": {
+            "name": "ForkLog",
+            "url": "https://forklog.com"
+          }
+        }
+      ],
+      "id": "technology"
+    },
+    {
+      "list": [
+        {
+          "id": "50",
+          "title": "Колодец желаний снова работает: Астрологи назвали любимчиков Вселенной - она исполнит их мечты после 20 февраля 2025 года",
+          "description": "Рассказываем про три знака Зодиака, которых ждёт исполнение желаний после 20 февраля 2025 года, их ждёт обогащение. Астрологи выделил Раков, Рыб и Скорпионов.",
+          "content": "5:40 – 19 февраля\nВселенная готовится щедро одарить своих любимчиков. Астрологи утверждают, что после 20 февраля 2025 года наступит судьбоносный момент для трёх знаков Зодиака.\nЖелания, давно хранившиеся в сердцах этих счастливчиков, обретут реальные... [655 chars]",
+          "url": "https://b-port.com/news/307348",
+          "image": "https://b-port.com/mediafiles/news/31706/40a04e452e622fa0b796850525da75cce7624b35.jpg",
+          "publishedAt": "2025-02-19T02:41:09Z",
+          "source": {
+            "name": "Мурманские новости | Би-порт",
+            "url": "https://b-port.com"
+          }
+        },
+        {
+          "id": "51",
+          "title": "Психолог на примере Лепса и Логинова оценила отношения с большой разницей в возрасте",
+          "description": "Психолог Надежда Резенова проанализировала плюсы и минусы отношений актёра Виктора Логинова, который старше своей возлюбленной на 23 года и певца Григория Лепса",
+          "content": "Психолог на примере Лепса и Логинова оценила отношения с большой разницей в возрасте\n1:27 Your browser does not support the audio element. Шоу-бизнес\nПсихолог Надежда Резенова проанализировала плюсы и минусы отношений актёра Виктора Логинова, который... [1586 chars]",
+          "url": "https://www.pravda.ru/news/showbiz/2179679-grigorii-leps/",
+          "image": "https://img.pravda.ru/image/preview/article/6/7/9/2179679_amp.jpeg",
+          "publishedAt": "2025-02-19T02:07:00Z",
+          "source": {
+            "name": "Правда.Ру",
+            "url": "https://www.pravda.ru"
+          }
+        },
+        {
+          "id": "52",
+          "title": "Извиняющийся русофоб: сбежавшая звезда \"Сватов\" признался в работе с Россией",
+          "description": "EADaily, 19 февраля 2025. Доходы звезды сериала «Сваты» Александра Феклистова, который сейчас живет в Испании, необходимо проверить. Об этом заявил глава Федерального проекта по безопасности и борьбе с коррупцией (ФПБК) Виталий Бородин.",
+          "content": "Доходы звезды сериала «Сваты» Александра Феклистова, который сейчас живет в Испании, необходимо проверить. Об этом заявил глава Федерального проекта по безопасности и борьбе с коррупцией (ФПБК) Виталий Бородин.\nВ свежем интервью Феклистов признался, ... [1442 chars]",
+          "url": "https://eadaily.com/ru/news/2025/02/19/izvinyayushchiysya-rusofob-sbezhavshaya-zvezda-svatov-priznalsya-v-rabote-s-rossiey",
+          "image": "https://img4.eadaily.com/r650x400/o/330/d47364e725df9c14299e4554833f3.jpeg",
+          "publishedAt": "2025-02-19T00:51:00Z",
+          "source": {
+            "name": "EADaily",
+            "url": "https://eadaily.com"
+          }
+        },
+        {
+          "id": "53",
+          "title": "Гоша Куценко грубо отреагировал на вопрос о мертвой женщине в его авто",
+          "description": "18 февраля на премьере фильма \"Красный шелк\" российский актер Гоша Куценко демонстративно показал журналистам средний палец. Так он ответил на вопрос о трупе в своей машине, сообщает Zakon.kz.",
+          "content": "18 февраля на премьере фильма \"Красный шелк\" российский актер Гоша Куценко демонстративно показал журналистам средний палец. Так он ответил на вопрос о трупе в своей машине, сообщает Zakon.kz.\nО трагических событиях стало известно чуть меньше месяца ... [659 chars]",
+          "url": "https://www.zakon.kz/kultura-shoubiz/6467594-gosha-kutsenko-grubo-otreagiroval-na-vopros-o-mertvoy-zhenshchine-v-ego-avto.html",
+          "image": "https://www.zakon.kz/pbi/WEBP/2025-02-19/file-847ea2ab-589a-4e0b-88db-9bfae3850721/800x449.webp",
+          "publishedAt": "2025-02-18T23:59:00Z",
+          "source": {
+            "name": "zakon.kz",
+            "url": "https://www.zakon.kz"
+          }
+        },
+        {
+          "id": "54",
+          "title": "Певицу Шакиру госпитализировали после её приезда в Бразилию",
+          "description": "Певица Шакира объяснила, что ей придётся отменить концерт в Перу, так как врачи запретили ей выступать.",
+          "content": "Певицу Шакиру госпитализировали после её приезда в Бразилию\n0:44 Your browser does not support the audio element. Шоу-бизнес\nПевица Шакира объяснила, что ей придётся отменить концерт в Перу, так как врачи запретили ей выступать.\nФото: https://vk.com/... [945 chars]",
+          "url": "https://www.pravda.ru/news/showbiz/2179626-shakira/",
+          "image": "https://img.pravda.ru/image/preview/article/6/2/6/2179626_amp.jpeg",
+          "publishedAt": "2025-02-18T22:08:24Z",
+          "source": {
+            "name": "Правда.Ру",
+            "url": "https://www.pravda.ru"
+          }
+        },
+        {
+          "id": "55",
+          "title": "K-Pop артисты заняли 9 из 10 верхних строчек в глобальном чарте продаж альбомов IFPI за 2024 год + SEVENTEEN и Stray Kids вошли в Топ-10 чарта артистов",
+          "description": "IFPI опубликовали свои годовые глобальные чарты за 2024 год, и многие K-Pop артисты заняли высокие места!",
+          "content": "IFPI опубликовали свои годовые глобальные чарты за 2024 год, и многие K-Pop артисты заняли высокие места!\nСмотрите также: Недооцененные, но незабываемые: K-Pop саундтреки к дорамам, которые стоит послушать\n18 февраля Международная федерация производи... [1480 chars]",
+          "url": "https://www.yesasia.ru/article/1644021",
+          "image": "https://www.yesasia.ru/wp-content/uploads/2025/02/enhypen-seventeen-stray-kids-ive-nct-dream-aespa-and-txt-make-top-10-of-ifpis-global-album-sales-chart-for-2024.webp",
+          "publishedAt": "2025-02-18T19:56:05Z",
+          "source": {
+            "name": "YesAsia",
+            "url": "https://www.yesasia.ru"
+          }
+        },
+        {
+          "id": "56",
+          "title": "Вот это размах! На съёмках \"Одиссеи\" Кристофера Нолана засветился Троянский конь (фото)",
+          "description": "После того, как Кристорфер Нолан взорвал настоящий самолёт в «Доводе», а в «Оппенгеймере» воссоздал взрыв ядерной бомбы, было наивно полагать, что Троянский конь в «Одиссеее» будет нарисованным. В конце концов, это всего лишь гигантская лошадь — бывали задачки и посложнее. Выглядит это создание и правда внушительно.",
+          "content": "После того, как Кристорфер Нолан взорвал настоящий самолёт в «Доводе», а в «Оппенгеймере» воссоздал взрыв ядерной бомбы, было наивно полагать, что Троянский конь в «Одиссеее» будет нарисованным. В конце концов, это всего лишь гигантская лошадь — быва... [404 chars]",
+          "url": "https://kg-portal.ru/comments/126459-vot-eto-razmah-na-semkah-odissei-kristofera-nolana-zasvetilsja-trojanskij-kon/",
+          "image": "https://kg-portal.ru/img/128262/main_2x.jpg",
+          "publishedAt": "2025-02-18T19:56:00Z",
+          "source": {
+            "name": "КГ-Портал",
+            "url": "https://kg-portal.ru"
+          }
+        },
+        {
+          "id": "57",
+          "title": "[theqoo] Карина из aespa замечена на съемках шоу G-Dragon \"Good Day\" + нетизены критикуют ее наряд",
+          "description": "Карина из aespa была замечена на съемках «Good Day», нового шоу G-Dragon.",
+          "content": "Карина из aespa была замечена на съемках «Good Day», нового шоу G-Dragon.\n18 февраля фотографии певицы распространились в различных корейских онлайн-сообществах.\nСмотрите также: «Это было так неловко!» — G-Dragon вспоминает, как он случайно позвонил ... [1998 chars]",
+          "url": "https://www.yesasia.ru/article/1644005",
+          "image": "https://www.yesasia.ru/wp-content/uploads/2025/02/aespas-karina-spotted-filming-for-g-dragons-good-day-variety-show.jpg",
+          "publishedAt": "2025-02-18T19:34:47Z",
+          "source": {
+            "name": "YesAsia",
+            "url": "https://www.yesasia.ru"
+          }
+        },
+        {
+          "id": "58",
+          "title": "Лолита потеряла все деньги и сбежит к Цекало? Чего еще она лишилась в РФ",
+          "description": "В России продолжают отменять концерты Лолиты. Где сейчас ее «особая» дочь, что с московскими квартирами и апартаментами артистки в Болгарии, поддержит ли Лолиту в случае полного краха ее бывший муж Цекало?",
+          "content": "Лолита потеряла все деньги и сбежит к Цекало? Чего еще она лишилась в РФ\nФото: Алексей Белкин/NEWS.ru\nЛолита Милявская\nВ России продолжают отменять концерты Лолиты. Артистка по-прежнему расплачивается за участие в «голой» вечеринке. Сама певица заяви... [5950 chars]",
+          "url": "https://news.ru/show-business/lolita-poteryala-vse-dengi-i-sbezhit-k-cekalo-chego-eshe-ona-lishilas-v-rf/",
+          "image": "https://images.news.ru/photo/66c218f4-ee17-11ef-941f-02420a0000c9_760.jpg",
+          "publishedAt": "2025-02-18T18:58:00Z",
+          "source": {
+            "name": "NEWS.ru",
+            "url": "https://news.ru"
+          }
+        },
+        {
+          "id": "59",
+          "title": "Джонни Депп сыграет в \"Пиратах Карибского моря 6\"",
+          "description": "Шестой фильм из серии \"Пираты Карибского моря\" уже некоторое время находится в разработке, и, согласно последним сведениям осведомленных источников, главный.... 18.02.2025",
+          "content": "Шестой фильм из серии \"Пираты Карибского моря\" уже некоторое время находится в разработке, и, согласно последним сведениям осведомленных источников, главный герой франшизы Капитан Джек Воробей возвращается в следующей части.\nЧто известно о фильме \"Пи... [1053 chars]",
+          "url": "https://www.kinonews.ru/news_132526/",
+          "image": "https://www.kinonews.ru/insimgs/2025/newsimg/big/newsimg132526.webp",
+          "publishedAt": "2025-02-18T18:16:48Z",
+          "source": {
+            "name": "KinoNews.ru",
+            "url": "https://www.kinonews.ru"
+          }
+        }
+      ],
+      "id": "entertainment"
+    },
+    {
+      "list": [
+        {
+          "id": "60",
+          "title": "Как в Италии восприняли участие Большунова в лыжной гонке?",
+          "description": "Организатор соревнований по лыжным гонкам среди любителей, лыжник Владислав Литвинчук сообщил, что в Италии не было никаких негативных высказываний в адрес Александра",
+          "content": "Как в Италии восприняли участие Большунова в лыжной гонке?\n1:04 Your browser does not support the audio element. Спорт\nОрганизатор соревнований по лыжным гонкам среди любителей, лыжник Владислав Литвинчук сообщил, что в Италии не было никаких негатив... [1419 chars]",
+          "url": "https://www.pravda.ru/news/sport/2179879-aleksandr-bolshunov/",
+          "image": "https://img.pravda.ru/image/preview/article/8/7/9/2179879_amp.jpeg",
+          "publishedAt": "2025-02-19T02:03:00Z",
+          "source": {
+            "name": "Правда.Ру",
+            "url": "https://www.pravda.ru"
+          }
+        },
+        {
+          "id": "61",
+          "title": "ЦСКА обвинили в срыве трансфера бразильского футболиста",
+          "description": "Трансфер полузащитника бразильского «Фламенго» Лоррана в ЦСКА сорвался по вине московского клуба. Об этом порталу Odds.ru заявил агент футболиста Тьяго Фрейташ.",
+          "content": "«После согласования некоторых деталей между двумя клубами и между ними и спортсменом было достигнуто соглашение. Лорран немедленно приготовился к поездке, пока клубы решали вопросы/процедуры, связанные с документами. Была достигнута договоренность, ч... [285 chars]",
+          "url": "https://sportmail.ru/news/football-rus-premier/64935362/",
+          "image": "https://resizer.mail.ru/p/e4f86dd5-43f6-5f66-b3b8-512fb6f748ed/AQAGlJ6HJrZZgbj5KZxMRwzEzPXJ75zvKH4sn-B82V1RhsMsK5vq09dF6QzlQKGWYwVDexeDvSj1GHln9_QAC4gHm6c.jpg",
+          "publishedAt": "2025-02-18T23:36:08Z",
+          "source": {
+            "name": "Спорт Mail.ru",
+            "url": "https://sportmail.ru"
+          }
+        },
+        {
+          "id": "62",
+          "title": "Топ-клубы Европы устроят битву за основного партнера Забарного по обороне в \"Борнмуте\"",
+          "description": "Английский «Борнмут» может потерять своего центрального защитника Дина Хейсена в летнее трансферное окно, сообщает футбольный инса... (19 февраля 2025 г.).",
+          "content": "Английский «Борнмут» может потерять своего центрального защитника Дина Хейсена в летнее трансферное окно, сообщает футбольный инсайдер ...\nАнглийский «Борнмут» может потерять своего центрального защитника Дина Хейсена в летнее трансферное окно, сообщ... [683 chars]",
+          "url": "https://dynamo.kiev.ua/news/649183-top-klubyi-evropyi-ustroyat-bitvu-za-osnovnogo-partnera-zabarnogo-po-oborone-v-bornmute",
+          "image": "https://dynamo.kiev.ua/media/posts/2025/02/18/image_4_1.jpg",
+          "publishedAt": "2025-02-18T22:03:00Z",
+          "source": {
+            "name": "Динамо Киев от Шурика",
+            "url": "https://dynamo.kiev.ua"
+          }
+        },
+        {
+          "id": "63",
+          "title": "Усик оказался в СБУ и озадачил сеть своим внешним видом. Фотофакт",
+          "description": "Чемпион WBC, WBA, WBO и IBO в сверхтяжелом весе Александр Усик (23-0, 14 КО) встретился с главой Службы безопасности Украины Василием Малюком.",
+          "content": "Чемпион WBC, WBA, WBO и IBO в сверхтяжелом весе Александр Усик (23-0, 14 КО) встретился с главой Службы безопасности Украины Василием Малюком. Крымчанин сделал совместную фотографию с Василием Васильевичем, а также другими героями войны против России... [991 chars]",
+          "url": "https://news.obozrevatel.com/sport/box/usik-okazalsya-v-sbu-i-ozadachil-set-svoim-vneshnim-vidom-fotofakt.htm",
+          "image": "https://i.obozrevatel.com/news/2025/2/19/filestoragetemp11.jpg?size=1200x630",
+          "publishedAt": "2025-02-18T21:42:45Z",
+          "source": {
+            "name": "Жизнь",
+            "url": "https://news.obozrevatel.com"
+          }
+        },
+        {
+          "id": "64",
+          "title": "Муратоглу: Исход дела Синнера выглядит как пародия на правосудие",
+          "description": "Теннисный тренер Патрик Муратоглу раскритиковал решение WADA о трехмесячной дисквалификации первой ракетки мира Янника Синнера.",
+          "content": "Теннисный тренер Патрик Муратоглу раскритиковал решение WADA о трехмесячной дисквалификации первой ракетки мира Янника Синнера.\nВ субботу Всемирное антидопинговое агентство (WADA) официально подтвердило соглашение об урегулировании дела Синнера. Итал... [1158 chars]",
+          "url": "https://news.sportbox.ru/Vidy_sporta/doping/spbnews_NI2170307_Muratoglu_Iskhod_dela_Sinnera_vygladit_kak_parodija_na_pravosudije",
+          "image": "https://s-cdn.sportbox.ru/images/shares/1200x600/node/2c/2170307.jpg",
+          "publishedAt": "2025-02-18T21:19:32Z",
+          "source": {
+            "name": "news.Sportbox.ru",
+            "url": "https://news.sportbox.ru"
+          }
+        },
+        {
+          "id": "65",
+          "title": "Александр Романчук: \"Немного времени нужно, чтобы привыкнуть к украинской погоде\"",
+          "description": "Полузащитник криворожского «Кривбасса» Александр Романчук рассказал об адаптации в Украине после тренировочных сборов в теплых кра... (18 февраля 2025 г.).",
+          "content": "Полузащитник криворожского «Кривбасса» Александр Романчук рассказал об адаптации в Украине после тренировочных сборов в теплых краях.\nАлександр Романчук\n— Мы рады снова быть дома, в Украине, увидеться со своими близкими. Все долго ждали старта весенн... [413 chars]",
+          "url": "https://dynamo.kiev.ua/news/649298-aleksandr-romanchuk-nemnogo-vremeni-nuzhno-chtobyi-privyiknut-kukrainskoj-pogode",
+          "image": "https://dynamo.kiev.ua/media/posts/2024/10/07/romanchuk.jpg",
+          "publishedAt": "2025-02-18T21:14:00Z",
+          "source": {
+            "name": "Динамо Киев от Шурика",
+            "url": "https://dynamo.kiev.ua"
+          }
+        },
+        {
+          "id": "66",
+          "title": "Дом Оливье Жиру в Америке обокрали",
+          "description": "Дом нападающего «Лос-Анджелес Гэлакси» и звезды сборной Франции Оливье Жиру обокрали злоумышленники, сообщает TMZ Sports. Оливье Ж... (18 февраля 2025 г.).",
+          "content": "Дом нападающего «Лос-Анджелес Гэлакси» и звезды сборной Франции Оливье Жиру обокрали злоумышленники, сообщает TMZ Sports.\nОливье Жиру (фото: gettyimages.com)\nПо информации правоохранителей, 5 февраля жена футболиста обратилась в полицию после того, к... [303 chars]",
+          "url": "https://dynamo.kiev.ua/news/649293-dom-olive-zhiru-vamerike-obokrali",
+          "image": "https://dynamo.kiev.ua/media/postphoto2/2025/02/111_dynamo.kiev.ua_111_63.jpg",
+          "publishedAt": "2025-02-18T18:41:00Z",
+          "source": {
+            "name": "Динамо Киев от Шурика",
+            "url": "https://dynamo.kiev.ua"
+          }
+        },
+        {
+          "id": "67",
+          "title": "Российский биатлонист Карим Халили одержал победу в индивидуальной гонке на Кубке сильнейших в Раубичах",
+          "description": "Российский биатлонист Карим Халили стал победителем индивидуальной гонки на Альфа‑Банк Кубке сильнейших спортсменов в Раубичах (Белоруссия).",
+          "content": "Российский биатлонист Карим Халили стал победителем индивидуальной гонки на Альфа‑Банк Кубке сильнейших спортсменов в Раубичах (Белоруссия).\nХалили показал результат 41 минута 31,9 секунды и стал единственным спортсменом, которому удалось пройти четы... [309 chars]",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Biatlon/spbnews_NI2170247_Rossijskij_biatlonist_Karim_Khalili_oderzhal_pobedu_v_individualnoj_gonke_na_Kubke_silnejshih_v_Raubichah",
+          "image": "https://s-cdn.sportbox.ru/images/shares/1200x600/node/3b/2170247.jpg",
+          "publishedAt": "2025-02-18T18:37:45Z",
+          "source": {
+            "name": "news.Sportbox.ru",
+            "url": "https://news.sportbox.ru"
+          }
+        },
+        {
+          "id": "68",
+          "title": "\"Отрадно, что Алеррандро выбрал ЦСКА вместо \"Севильи\" - Таранов",
+          "description": "Бывший российский футболист Иван Таранов признался, что его обрадовал тот факт, что нападающий Алеррандро перешел в ЦСКА, несмотря на предложения других европейских клубов.",
+          "content": "Бывший российский футболист Иван Таранов признался, что его обрадовал тот факт, что нападающий Алеррандро перешел в ЦСКА, несмотря на предложения других европейских клубов.\nРанее Алеррандро выступал за «Брагантино». В понедельник бразильский клуб объ... [636 chars]",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Russia/premier_league/spbnews_NI2170248_Otradno_chto_Alerrandro_vybral_CSKA_vmesto_Sevili__Taranov",
+          "image": "https://s-cdn.sportbox.ru/images/shares/1200x600/node/81/2170248.jpg",
+          "publishedAt": "2025-02-18T17:55:47Z",
+          "source": {
+            "name": "news.Sportbox.ru",
+            "url": "https://news.sportbox.ru"
+          }
+        },
+        {
+          "id": "69",
+          "title": "Игорь Цыганик: \"Прогнозирую триумф \"Реала\" над \"МанСити\"",
+          "description": "Известный комментатор Игорь Цыганик сделал прогноз на матч плей-офф Лиги чемпионов «Реал» — «Манчестер Сити». Игорь Цыганик —... (18 февраля 2025 г.).",
+          "content": "Известный комментатор Игорь Цыганик сделал прогноз на матч плей-офф Лиги чемпионов «Реал» — «Манчестер Сити».\nИгорь Цыганик\n— Честно говоря, до первого противостояния между этими командами мне казалось, что «МанСити» будет иметь преимущество, но они ... [733 chars]",
+          "url": "https://dynamo.kiev.ua/news/649283-igor-tsyiganik-prognoziruyu-triumf-reala-nad-mansiti",
+          "image": "https://dynamo.kiev.ua/media/postphoto2/2024/08/1_4.jpg",
+          "publishedAt": "2025-02-18T17:53:00Z",
+          "source": {
+            "name": "Динамо Киев от Шурика",
+            "url": "https://dynamo.kiev.ua"
+          }
+        }
+      ],
+      "id": "sports"
+    },
+    {
+      "list": [
+        {
+          "id": "70",
+          "title": "Остановится ли внутреннее ядро Земли к 2040 году? Ученые объясняют",
+          "description": "Внутреннее ядро Земли действительно меняет свою скорость вращения, но это не приведет к его остановке к 2040 году.",
+          "content": "Остановится ли внутреннее ядро Земли к 2040 году? Ученые объясняют\n1:50 Your browser does not support the audio element. Наука\nНедавние сообщения о том, что вращение внутреннего ядра Земли замедляется и может полностью остановиться к 2040 году, вызва... [1572 chars]",
+          "url": "https://www.pravda.ru/news/science/2180010-earth-synchronization/",
+          "image": "https://img.pravda.ru/image/preview/article/0/1/0/2180010_amp.jpeg",
+          "publishedAt": "2025-02-19T04:45:00Z",
+          "source": {
+            "name": "Правда.Ру",
+            "url": "https://www.pravda.ru"
+          }
+        },
+        {
+          "id": "71",
+          "title": "Таинственный объект на Google Maps в Тихом океане оказался островом",
+          "description": "Черное пятно в Тихом океане, ставшее сенсацией в 2021 году, оказалось безлюдным островом Восток. Читайте больше ᐅ TSN.ua(новости 1+1).",
+          "content": "Это темное пятно на самом деле оказалось островом Восток.\nВ 2021 году изображение Google Maps вызвало большое обсуждение из-за необычного темного треугольного пятна в центре Тихого океана.\nОб этом сообщило издание Live Science.\n\"Остров-загадка\", поро... [1138 chars]",
+          "url": "https://tsn.ua/ru/nauka_it/chernaya-dyra-v-tihom-okeane-uchenye-obyasnili-chto-na-samom-dele-skryvaetsya-pod-temnym-pyatnom-2770149.html",
+          "image": "https://img.tsn.ua/cached/548/tsn-7a7afafe7a64cd96a891771cf6bf5b51/thumbs/1200x630/5d/a7/2305aa37e8a3326719eb40768b9ea75d.jpeg",
+          "publishedAt": "2025-02-19T04:45:00Z",
+          "source": {
+            "name": "ТСН",
+            "url": "https://tsn.ua"
+          }
+        },
+        {
+          "id": "72",
+          "title": "Годзилла проснулся? Учёные встревожены загадочным увеличением радиации под Тихим океаном",
+          "description": "Пока одни учёные шутят по поводу того, что на дне океана пробудился радиоактивный монстр Годзилла, другие связывают аномалию с ближайшим космосом.",
+          "content": "Годзилла проснулся? Учёные встревожены загадочным увеличением радиации под Тихим океаном Пока одни учёные шутят по поводу того, что на дне океана пробудился радиоактивный монстр Годзилла, другие связывают аномалию с ближайшим космосом. 18 февраля, 21... [6158 chars]",
+          "url": "https://life.ru/p/1728326",
+          "image": "https://static.life.ru/publications/2025/2/17/1113836723701.5803.webp",
+          "publishedAt": "2025-02-18T21:27:00Z",
+          "source": {
+            "name": "Life.ru",
+            "url": "https://life.ru"
+          }
+        },
+        {
+          "id": "73",
+          "title": "Изготовленные из внеземного материала: ученые обнаружили самую большую коллекцию необычных украшений (фото)",
+          "description": "Исследователи обнаружили, что некоторые артефакты железного века, обнаруженные на древних кладбищах Ченстохова, изготовлены из метеоритного железа. Археологи отмечают, что эти предметы изготовили из о…",
+          "content": "Исследователи обнаружили, что некоторые артефакты железного века, обнаруженные на древних кладбищах Ченстохова, изготовлены из метеоритного железа. Археологи отмечают, что эти предметы изготовили из одного метеорита, а не из разных источников.\nRelate... [2594 chars]",
+          "url": "https://focus.ua/technologies/694311-izgotovlennye-iz-vnezemnogo-materiala-uchenye-obnaruzhili-samuyu-bolshuyu-kollekciyu-neobychnyh-ukrasheniy-foto",
+          "image": "https://focus.ua/static/storage/thumbs/1200x630/f/05/92e8c42e-dfd8e0a1387158692facc13fe384e05f.png?v=4568_1",
+          "publishedAt": "2025-02-18T20:58:46Z",
+          "source": {
+            "name": "ФОКУС",
+            "url": "https://focus.ua"
+          }
+        },
+        {
+          "id": "74",
+          "title": "Оказывается, наша черная дыра все время \"пускает пузыри\" - это необычно",
+          "description": "У остальных известных черных дыр активность длится не все время. Черная дыра Стрелец A*, расположенная в центре нашей галактики Млечный Путь, оказалась необычно активной. К такому выводу пришли исследователи, изучившие черную дыру с помощью телескопа «Джеймс Уэбб».",
+          "content": "У остальных известных черных дыр активность длится не все время.\nЧерная дыра Стрелец A*, расположенная в центре нашей галактики Млечный Путь, оказалась необычно активной. К такому выводу пришли исследователи, изучившие черную дыру с помощью телескопа... [1689 chars]",
+          "url": "https://wtftime.ru/articles/150649/okazyvaetsja-nasha-chernaja-dyra-vse-vremja-puskaet-puzyri--eto-neobychno/",
+          "image": "https://img2.wtftime.ru/store/2025/02/18/rE70X5k9_big_poster_ds.jpg",
+          "publishedAt": "2025-02-18T19:28:36Z",
+          "source": {
+            "name": "WTFTime",
+            "url": "https://wtftime.ru"
+          }
+        },
+        {
+          "id": "75",
+          "title": "Животные Амазонии по-разному реагируют на волны холода",
+          "description": "Новое исследование, проведенное учеными из Вюрцбургского университета, продемонстрировало влияние резких похолоданий на насекомых и млекопитающих в тропических лесах Амазонки.",
+          "content": "Новое исследование, проведенное учеными из Вюрцбургского университета, продемонстрировало влияние резких похолоданий на насекомых и млекопитающих в тропических лесах Амазонки.\n© Alexander Ruszczynski / Shutterstock/FOTODOM\nВ июне 2023 года температур... [814 chars]",
+          "url": "https://www.gismeteo.ru/news/animals/zhivotnye-amazonii-po-raznomu-reagirujut-na-volny-holoda/",
+          "image": "https://news-img.gismeteo.st/ru/2025/02/shutterstock_2499817151.jpg",
+          "publishedAt": "2025-02-18T19:10:29Z",
+          "source": {
+            "name": "GISMETEO.Новости",
+            "url": "https://www.gismeteo.ru"
+          }
+        },
+        {
+          "id": "76",
+          "title": "Крепость сапотеков оказалась частью огромного древнего города",
+          "description": "Новое исследование раскрыло тайны Гиенголы, древнего города сапотеков в мексиканской Оахаке.",
+          "content": "Новое исследование раскрыло тайны Гиенголы, древнего города сапотеков в мексиканской Оахаке. Ранее считавшийся лишь крепостью, Гиенгола на самом деле раскинулся примерно на 360 га, включая более 1100 жилых построек, храмов и полей для игры в мяч.\nОах... [728 chars]",
+          "url": "https://www.gismeteo.ru/news/science/krepost-sapotekov-okazalas-chastju-ogromnogo-drevnego-goroda/",
+          "image": "https://news-img.gismeteo.st/ru/2025/02/shutterstock_2260836137.jpg",
+          "publishedAt": "2025-02-18T18:39:57Z",
+          "source": {
+            "name": "GISMETEO.Новости",
+            "url": "https://www.gismeteo.ru"
+          }
+        },
+        {
+          "id": "77",
+          "title": "В Ираке нашли сотни артефактов возрастом до 1,5 млн лет",
+          "description": "Археологи в Ираке сделали важное открытие, обнаружив более 850 древних каменных орудий в районе Аш-Шабака, расположенном в Западной пустыне.",
+          "content": "Археологи в Ираке сделали важное открытие, обнаружив более 850 древних каменных орудий в районе Аш-Шабака, расположенном в Западной пустыне. Эти инструменты, среди которых есть и ручные топоры, относятся к раннему палеолиту. Их возраст составляет до ... [740 chars]",
+          "url": "https://www.gismeteo.ru/news/science/v-irake-nashli-sotni-artefaktov-vozrastom-do-1-5-mln-let/",
+          "image": "https://news-img.gismeteo.st/ru/2025/02/shutterstock_539044753.jpg",
+          "publishedAt": "2025-02-18T18:24:34Z",
+          "source": {
+            "name": "GISMETEO.Новости",
+            "url": "https://www.gismeteo.ru"
+          }
+        },
+        {
+          "id": "78",
+          "title": "Народные приметы на 19 февраля - Вукол-телятник",
+          "description": "Cвятой Вукол, почитаемый в этот день, считался у славян покровителем новорожденных телят.",
+          "content": "В православной традиции этот день посвящен памяти преподобного Вукола, епископа Смирнского.\nПреподобный Вукол Смирнский — первый епископ Смирнской Церкви, ученик апостола Иоанна Богослова, живший в I–II веках.\nАпостол Иоанн поставил его во епископа С... [1935 chars]",
+          "url": "https://www.gismeteo.ru/news/nature/30710-narodnye-primety-na-19-fevralya-vukol-telyatnik/",
+          "image": "https://news-img.gismeteo.st/ru/2024/11/fb55b780.jpg",
+          "publishedAt": "2025-02-18T18:15:37Z",
+          "source": {
+            "name": "GISMETEO.Новости",
+            "url": "https://www.gismeteo.ru"
+          }
+        },
+        {
+          "id": "79",
+          "title": "В грунте астероида Рюгу нашли следы соленой воды",
+          "description": "Изучая доставленные на Землю зондом «Хаябуса-2» образцы грунта с астероида Рюгу, ученые выявили в нем карбонаты натрия, хлориды и сульфаты (соли хлора и серы). Эти соединения указывают на то, что на родительском теле астероида когда-то присутствовала соленая вода.",
+          "content": "Изучая доставленные на Землю зондом «Хаябуса-2» образцы грунта с астероида Рюгу, ученые выявили в нем карбонаты натрия, хлориды и сульфаты (соли хлора и серы). Эти соединения указывают на то, что на родительском теле астероида когда-то присутствовала... [3982 chars]",
+          "url": "https://naked-science.ru/article/astronomy/v-grunte-asteroida-ryugu",
+          "image": "https://naked-science.ru/wp-content/uploads/2025/02/ryu_gu-1200x675.jpg",
+          "publishedAt": "2025-02-18T15:17:03Z",
+          "source": {
+            "name": "Naked Science ",
+            "url": "https://naked-science.ru"
+          }
+        }
+      ],
+      "id": "science"
+    },
+    {
+      "list": [
+        {
+          "id": "80",
+          "title": "Курильщики могут выдохнуть: обычное лекарство оказалось их спасением",
+          "description": "По данным Всемирной организации здравоохранения, более 22% людей по всему миру курят, и от этого умирает более 8 миллионов человек ежегодно.",
+          "content": "Курильщики могут выдохнуть: обычное лекарство оказалось их спасением\n1:24 Your browser does not support the audio element. Наука\nКурение — это одна из самых опасных привычек, которая может привести к серьезным заболеваниям, таким как рак легких и бол... [1276 chars]",
+          "url": "https://www.pravda.ru/news/science/2179975-science/",
+          "image": "https://img.pravda.ru/image/preview/article/9/7/5/2179975_amp.jpeg",
+          "publishedAt": "2025-02-18T23:10:53Z",
+          "source": {
+            "name": "Правда.Ру",
+            "url": "https://www.pravda.ru"
+          }
+        },
+        {
+          "id": "81",
+          "title": "Зубная нить может спасти от смертельной болезни",
+          "description": "Использование зубной нити может спасти от ишемического инсульта, уверены ученые из Медицинской школы Колумбийского университета. Результаты исследования публикует \"Газета.Ru\" со ссылкой на медицинский портал Medscape.",
+          "content": "Использование зубной нити может спасти от ишемического инсульта, уверены ученые из Медицинской школы Колумбийского университета. Результаты исследования публикует «Газета.Ru» со ссылкой на медицинский портал Medscape.\nИсследование показало, что регул... [849 chars]",
+          "url": "https://gubdaily.ru/news/zubnaya-nit-mozhet-spasti-ot-smertelnoj-bolezni/",
+          "image": "https://gubdaily.ru/wp-content/uploads/2025/02/smiling-cute-woman-flossing-teeth-with-dental-floss.jpg",
+          "publishedAt": "2025-02-18T13:10:33Z",
+          "source": {
+            "name": "Daily Карелия",
+            "url": "https://gubdaily.ru"
+          }
+        },
+        {
+          "id": "82",
+          "title": "мнение инфекциониста, детали",
+          "description": "Врач-инфекционист рассказал, чем может обернуться отпуск за границей, как не заболеть во время такого отдыха, — разбираемся вместе с Леди Mail.",
+          "content": "«Негативные последствия для здоровья могут быть тяжелыми и отразиться на многих системах организма: есть риск для пищеварительной системы, может пострадать кожа, а также глаза. Например, малярия проявляется через 1-4 недели после заражения в виде лих... [270 chars]",
+          "url": "https://lady.mail.ru/article/558099-infekcionist-podelilsya-chem-mozhet-obernutsya-otpusk-za-granicej/",
+          "image": "https://resizer.mail.ru/p/1cf5fe2b-5d60-5d00-93d8-78f50f7e6089/AQAFuxTTT0CchqZ3gQPeAZzb9I7ylF2icT9eH9h7-pVM7SZKeaJk9sQMtvfh-rP6-R-MdXF_iA7aGoKMrop_Q_NvvOM.jpg",
+          "publishedAt": "2025-02-16T17:41:41Z",
+          "source": {
+            "name": "Леди Mail.ru",
+            "url": "https://lady.mail.ru"
+          }
+        },
+        {
+          "id": "83",
+          "title": "Впервые за 15 лет - эта болезнь сразила США",
+          "description": "Соединённые Штаты переживают один из самых тяжёлых сезонов гриппа за последнее десятилетие.",
+          "content": "Впервые за 15 лет — эта болезнь сразила США\nВ Соединенных Штатах разразился самый тяжелый сезон гриппа за последнее десятилетие. По предварительным данным Центров по контролю и профилактике заболеваний США (CDC), число заболевших уже превысило 24 мил... [4439 chars]",
+          "url": "https://www.pravda.ru/news/science/2178417-kakaja-bolezn-srazila-ssha/",
+          "image": "https://img.pravda.ru/image/preview/article/4/1/7/2178417_amp.jpeg",
+          "publishedAt": "2025-02-16T15:01:00Z",
+          "source": {
+            "name": "Правда.Ру",
+            "url": "https://www.pravda.ru"
+          }
+        },
+        {
+          "id": "84",
+          "title": "Этот фрукт вызывает рак! Врачи требуют запретить его продажу, но его едят все",
+          "description": "Этот скандал разгорелся после того как американка подала иск против компании-производителя соков, обвинив их в сокрытии данных о вреде продукции.",
+          "content": "Вы когда-нибудь задумывались, что ваш утренний стакан апельсинового сока может быть опаснее сигарет?\nВ 2023 году исследование, опубликованное в Journal of Oncology, всколыхнуло медицинское сообщество: у пациентов, употребляющих более двух апельсинов ... [1776 chars]",
+          "url": "https://www.belnovosti.by/krasota-i-zdorove/etot-frukt-vyzyvaet-rak-vrachi-trebuyut-zapretit-ego-prodazhu-no-ego-edyat-vse",
+          "image": "https://www.belnovosti.by/sites/default/files/2025-02/Frukty_2.jpg",
+          "publishedAt": "2025-02-13T05:20:00Z",
+          "source": {
+            "name": "Белновости",
+            "url": "https://www.belnovosti.by"
+          }
+        },
+        {
+          "id": "85",
+          "title": "Ученые нашли более эффективное, чем оземпик, средство для похудения",
+          "description": "Исследователи нашли доказательства того, что золотые наночастицы могут вести к значительной, целенаправленной потере веса, не влияя на структуру мышц, сообщает Zakon.kz.",
+          "content": "Исследователи нашли доказательства того, что золотые наночастицы могут вести к значительной, целенаправленной потере веса, не влияя на структуру мышц, сообщает Zakon.kz.\nЗолотые наночастицы (AuNP) изучили ученые из Александрийского университета в Еги... [3588 chars]",
+          "url": "https://www.zakon.kz/nauka/6466710-uchenye-nashli-bolee-effektivnoe-chem-ozempik-sredstvo-dlya-pokhudeniya-.html",
+          "image": "https://www.zakon.kz/pbi/WEBP/2025-02-11/file-a53b6763-3f32-481f-9ca9-00632f3c8c5c/800x450.webp",
+          "publishedAt": "2025-02-11T07:16:00Z",
+          "source": {
+            "name": "zakon.kz",
+            "url": "https://www.zakon.kz"
+          }
+        },
+        {
+          "id": "86",
+          "title": "Названы симптомы дефицита витамина D",
+          "description": "Врач назвала симптомы дефицита витамина D, которые могут снижать качество жизни.",
+          "content": "Названы симптомы дефицита витамина D\n1:12 Your browser does not support the audio element. Здоровье\nВ зимний период витамин D у многих людей может опускаться ниже допустимых значений. Это может серьезно отразиться на состоянии здоровья и самочувствии... [1303 chars]",
+          "url": "https://www.pravda.ru/news/health/2175163-zdorove-vitaminy-vrachi/",
+          "image": "https://img.pravda.ru/image/preview/article/1/6/3/2175163_five.jpeg",
+          "publishedAt": "2025-02-10T11:52:00Z",
+          "source": {
+            "name": "Правда.Ру",
+            "url": "https://www.pravda.ru"
+          }
+        },
+        {
+          "id": "87",
+          "title": "100-летняя американка, которая до сих пор продолжает работать, назвала секрет долголетия - видео",
+          "description": "Женщина уверена. что сохранить активность и здоровье до ста лет ей позволила постоянная занятость, работа и социализация.",
+          "content": "ДжоКлета Уилсон, которой исполнилось 100 лет, продолжает работать и чувствует себя энергичной. По ее словам, именно возвращение к активной деятельности помогло ей сохранить жизненный тонус.\nКакие еще секреты долголетия имеет долгожительница, рассказы... [2197 chars]",
+          "url": "https://cursorinfo.co.il/interest/100-letnyaya-amerikanka-kotoraya-do-sih-por-prodolzhaet-rabotat-nazvala-sekret-dolgoletiya-video/",
+          "image": "https://cursorinfo.co.il/wp-content/uploads/2020/07/Starost.jpg",
+          "publishedAt": "2025-02-10T11:42:23Z",
+          "source": {
+            "name": "Cursorinfo",
+            "url": "https://cursorinfo.co.il"
+          }
+        },
+        {
+          "id": "88",
+          "title": "Это простое упражнение покажет, в хорошей ли вы форме",
+          "description": "Эксперты клиники Майо назвали норму отжиманий для мужчин и женщин. Это упражнение поможет определить уровень вашей физической формы.",
+          "content": "Это простое упражнение покажет, в хорошей ли вы форме\n1:27 Your browser does not support the audio element. Здоровье\nСколько раз нужно отжиматься, чтобы считаться здоровым\nОтжимания — это не просто упражнение, а индикатор физической формы и общего зд... [1061 chars]",
+          "url": "https://www.pravda.ru/news/health/2169448-push_up_fitness_test/",
+          "image": "https://img.pravda.ru/image/preview/article/4/4/8/2169448_five.jpeg",
+          "publishedAt": "2025-02-09T11:08:00Z",
+          "source": {
+            "name": "Правда.Ру",
+            "url": "https://www.pravda.ru"
+          }
+        },
+        {
+          "id": "89",
+          "title": "Бессонница или здоровье? Что важно знать перед приемом снотворного",
+          "description": "Снотворные помогают быстрее заснуть, но могут нарушать важный процесс очищения мозга. Ученые раскрыли неожиданный эффект популярных препаратов.",
+          "content": "Бессонница или здоровье? Что важно знать перед приемом снотворного\n2:51 Your browser does not support the audio element. Здоровье\nСон — один из важнейших процессов организма, от которого зависит работа сердца, иммунной системы, гормонального фона и д... [2930 chars]",
+          "url": "https://www.pravda.ru/news/health/2174367-sleep-medication-effects/",
+          "image": "https://img.pravda.ru/image/preview/article/3/6/7/2174367_five.jpeg",
+          "publishedAt": "2025-02-08T19:34:00Z",
+          "source": {
+            "name": "Правда.Ру",
+            "url": "https://www.pravda.ru"
+          }
+        }
+      ],
+      "id": "health"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "films": [
+    {
+      "id": "7332132",
+      "name": "Сочная ставка",
+      "type": "tv-series",
+      "year": 2022,
+      "description": "Домашние повара делают ставки на ингредиенты на аукционе, чтобы создать блюда, которые произведут впечатление на приглашенных судей-знаменитостей, и выиграть все деньги из копилки.",
+      "rating": {
+        "kp": 0,
+        "imdb": 6.4
+      },
+      "seriesLength": 35,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10768063/2747fd2e-09f1-4231-8a9d-942727705f73/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10768063/2747fd2e-09f1-4231-8a9d-942727705f73/x1000"
+      },
+      "genres": [
+        {
+          "name": "игра"
+        },
+        {
+          "name": "реальное ТВ"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Канада"
+        },
+        {
+          "name": "США"
+        }
+      ],
+      "isSeries": true
+    },
+    {
+      "id": "6652120",
+      "name": "Нераскрытое дело: Кто убил Джонбенет Рэмс",
+      "type": "tv-series",
+      "year": 2024,
+      "description": "Об убийстве 6-летней Джонбенет Рэмси, которое так и не было раскрыто.",
+      "rating": {
+        "kp": 0,
+        "imdb": 6.9
+      },
+      "seriesLength": 60,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10812607/a64042ff-917e-4509-a9f9-59759f3cb222/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10812607/a64042ff-917e-4509-a9f9-59759f3cb222/x1000"
+      },
+      "genres": [
+        {
+          "name": "документальный"
+        },
+        {
+          "name": "криминал"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "isSeries": true
+    },
+    {
+      "id": "5626362",
+      "name": "Южный парк: Конец ожирения",
+      "type": "cartoon",
+      "year": 2024,
+      "description": "Появление нового средства для похудения вызывает волнение в Южном парке. Когда Картману отказывают в доступе к нему, дети решают принять меры.",
+      "rating": {
+        "kp": 6.904,
+        "imdb": 7.1
+      },
+      "movieLength": 50,
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "криминал"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "isSeries": false,
+      "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4483445/8b5c99a7-7496-4c09-8531-4957cb77a0e5/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4483445/8b5c99a7-7496-4c09-8531-4957cb77a0e5/orig"
+      }
+    },
+    {
+      "id": "7129836",
+      "name": "Рок-н-ролл",
+      "type": "movie",
+      "year": 2016,
+      "description": "Только что окончивший колледж Дэвид мечтает стать крупным музыкальным агентом. Он переезжает в Лос-Анджелес и знакомится со своим кумиром — известным агентом рок-звёзд Уильямом Смайтом, который даже предлагает ему работу в своём агентстве. Правда, есть одно условие: Дэвид должен заключить с Уильямом пари, что сможет проявить себя и в течение 4 месяцев подписать контракт с музыкантом. А в случае неудачи Дэвид лишается своей машины Ford T-Bird 1959 года, на которую сразу положил глаз Смайт.",
+      "rating": {
+        "kp": 0,
+        "imdb": 5.7
+      },
+      "movieLength": 91,
+      "ageRating": 18,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10671298/31a9fd74-1942-4847-abf0-41ded5005113/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10671298/31a9fd74-1942-4847-abf0-41ded5005113/x1000"
+      },
+      "genres": [
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "музыка"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "isSeries": false
+    },
+    {
+      "id": "6458996",
+      "name": "Жестокие игры",
+      "type": "tv-series",
+      "year": 2024,
+      "description": "Элитный колледж Вашингтона. Сводные сестра и брат Кэролайн и Люсьен изо всех сил пытаются подняться по социальной лестнице, не гнушаясь самыми грязными методами. После того, как жестокий инцидент с буллингом и издевательствами начинает угрожать их репутации, они решают соблазнить дочь вице-президента США, чтобы сохранить свое влияние в колледже.",
+      "rating": {
+        "kp": 5.895,
+        "imdb": 5.5
+      },
+      "seriesLength": 45,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10671298/45116ab7-84c0-462e-af26-608392f4be4c/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10671298/45116ab7-84c0-462e-af26-608392f4be4c/x1000"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "isSeries": true
+    },
+    {
+      "id": "6458801",
+      "name": "Ничего не говори",
+      "type": "tv-series",
+      "year": 2024,
+      "description": "История жителей Белфаста с 1970-х по 1990-е годы на фоне конфликта в Северной Ирландии, которая начинается с похищения и убийства матери десяти детей Джин Макконвилл боевиками ИРА из-за подозрения в шпионаже в пользу Британской армии.",
+      "rating": {
+        "kp": 7.434,
+        "imdb": 8.2
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4486362/eca109b6-e257-481f-b3e8-4063856b2a11/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4486362/eca109b6-e257-481f-b3e8-4063856b2a11/x1000"
+      },
+      "genres": [
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "история"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        },
+        {
+          "name": "Ирландия"
+        }
+      ],
+      "isSeries": true
+    },
+    {
+      "id": "6974240",
+      "name": "Adult Swim. Святочное полено 2: Расширение",
+      "type": "movie",
+      "year": 2024,
+      "description": "Выжив в той бойне, Зои пытается вернуться к обычной жизни, но ей всюду мерещится летающее горящее полено. Приятель Джейкстер предлагает девушке отправиться в отпуск и расслабиться, но по дороге их машина ломается, и друзья застревают в небольшом городке. Пока Джейкстер занят изучением автомастерской, Зои пытается найти способ покинуть кажущееся ей зловещим место, но внезапно оказывается в рождественском романтическом фильме Hallmark, где шагу нельзя ступить, чтобы не наткнуться на высокого красавца. А кровожадное полено, спалив полицейский участок со всеми уликами, пускается в погоню за Зои.",
+      "rating": {
+        "kp": 0,
+        "imdb": 6.4
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10812607/cb415b93-a60e-462c-8b47-7e185c82389a/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10812607/cb415b93-a60e-462c-8b47-7e185c82389a/x1000"
+      },
+      "genres": [
+        {
+          "name": "ужасы"
+        },
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "isSeries": false
+    },
+    {
+      "id": "6338665",
+      "name": "Мама",
+      "type": "movie",
+      "year": 2024,
+      "description": "Переживающий первый взрослый жизненный кризис Никита случайно находит временной портал. В альтернативном мире он встречает «параллельных» родных: свою девушку, ушедшую маму и даже самого себя. Но прежде чем дверь между мирами необратимо закроется, в самых страшных и трагических обстоятельствах он должен найти выход и исправить фатальные ошибки, которые совершил по отношению к близким.",
+      "rating": {
+        "kp": 0,
+        "imdb": 8.5
+      },
+      "movieLength": 91,
+      "ageRating": 16,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4486362/069a31bc-071a-41c4-a914-fab92e43a995/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4486362/069a31bc-071a-41c4-a914-fab92e43a995/x1000"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "приключения"
+        },
+        {
+          "name": "фантастика"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Россия"
+        }
+      ],
+      "isSeries": false
+    },
+    {
+      "id": "6274155",
+      "name": "Гудбай",
+      "type": "tv-series",
+      "year": 2024,
+      "description": "Президент США Джо Байден хочет сам разобраться, почему его санкции не работают против русских. Под прикрытием он летит в Россию, чтобы понять русскую душу, и в первый же день теряет документы, но зато находит нового друга — настоящего русского патриота. Теперь Байден вынужден жить в обычной хрущевке, работать учителем английского языка, чтобы накопить деньги на новые документы и попытаться вернуться в Америку. А тем временем агенты ЦРУ увозят в США очень похожего на Байдена российского пенсионера Иваныча.",
+      "rating": {
+        "kp": 6.544,
+        "imdb": 2.7
+      },
+      "seriesLength": 24,
+      "ageRating": 18,
+      "genres": [
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Россия"
+        }
+      ],
+      "isSeries": true,
+      "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4716873/1be2f748-2d32-4af4-9b24-85e037c7ff55/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4716873/1be2f748-2d32-4af4-9b24-85e037c7ff55/orig"
+      }
+    },
+    {
+      "id": "5935451",
+      "name": "Между нами химия",
+      "type": "tv-series",
+      "year": 2025,
+      "description": "Таня днём в одиночку воспитывает двоих детей, а по ночам работает в такси. Всё меняется, когда она узнаёт о серьёзном диагнозе. Теперь её беспокоит только одно: с кем останутся дети, если болезнь окажется сильнее? Таня не готова доверить их ненадёжным родственникам и решает найти достойного мужчину, женить его на себе, чтобы в случае чего он позаботился о детях. Единственный человек, с кем Таня делится своими мыслями, — это её врач. Неожиданно план срабатывает, и в какой-то момент претендентов становится слишком много.",
+      "rating": {
+        "kp": 7.04,
+        "imdb": 7.5
+      },
+      "seriesLength": 30,
+      "ageRating": 16,
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Россия"
+        }
+      ],
+      "isSeries": true,
+      "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10893610/d35e27b2-1909-4207-9e04-bb036779e726/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10893610/d35e27b2-1909-4207-9e04-bb036779e726/orig"
+      }
+    },
+    {
+      "id": "5582020",
+      "name": "Три богатыря. Ни дня без подвига",
+      "type": "animated-series",
+      "year": 2024,
+      "description": "У трех богатырей что ни день, то подвиг по расписанию. То придется расследовать похищение княжеской короны, то спасать друзей из волшебного мира снов, то Конь Юлий с Алешей схлестнутся в эпической битве умов. Не бывает маленьких приключений, да и богатыри наши — немаленькие.",
+      "rating": {
+        "kp": 7.463,
+        "imdb": 5.7
+      },
+      "seriesLength": 18,
+      "ageRating": 6,
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "приключения"
+        },
+        {
+          "name": "фэнтези"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Россия"
+        }
+      ],
+      "isSeries": true,
+      "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10671298/0654a891-179a-4f2c-a9fc-aeaafc1f24a5/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10671298/0654a891-179a-4f2c-a9fc-aeaafc1f24a5/orig"
+      }
+    },
+    {
+      "id": "5509770",
+      "name": "Эль Русо",
+      "type": "tv-series",
+      "year": 2024,
+      "description": "Жаркая Аргентина. Тихий живописный полуостров в стороне от Буэнос-Айреса. Там, в «аргентинской Венеции», живет уже не первое поколение русских староверов, сохраняя свой язык, веру и уклад. Она — староверка, живущая по правилам общины. Он — полицейский, эмигрант из России, не знающий пощады к преступникам. Она живет в деревне, изоляции от внешнего мира. Он — свой в агрессивном мегаполисе. Им не было суждено встретиться, но их пути пересеклись. Их любовь была невозможна, но она случилась. Их жизни угрожает преступная группировка, их любви — самые близкие люди.",
+      "rating": {
+        "kp": 6.759,
+        "imdb": 6.4
+      },
+      "seriesLength": 35,
+      "ageRating": 18,
+      "genres": [
+        {
+          "name": "мелодрама"
+        },
+        {
+          "name": "детектив"
+        },
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Россия"
+        },
+        {
+          "name": "Аргентина"
+        }
+      ],
+      "isSeries": true,
+      "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4716873/f08f9fe9-059a-4517-aae1-6ab455ca733c/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4716873/f08f9fe9-059a-4517-aae1-6ab455ca733c/orig"
+      }
+    },
+    {
+      "id": "785528",
+      "name": "Рыбак и его душа",
+      "type": "cartoon",
+      "year": 2007,
+      "description": "Как молодой рыбак ради любви к морской деве отказался от своей души.",
+      "rating": {
+        "kp": 0,
+        "imdb": 6.2
+      },
+      "movieLength": 10,
+      "ageRating": 0,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/6201401/a6a4e943-db45-48f5-b4dd-fda6eb3b9bd7/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/6201401/a6a4e943-db45-48f5-b4dd-fda6eb3b9bd7/x1000"
+      },
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "детский"
+        },
+        {
+          "name": "короткометражка"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Россия"
+        }
+      ],
+      "isSeries": false
+    },
+    {
+      "id": "6375538",
+      "name": "Глухой номер",
+      "type": "movie",
+      "year": 2024,
+      "description": "Робкий офисный клерк оказывается похоронен заживо, а единственной ниточкой связывающей его с внешним миром оказывается оставленный в гробу сотовый телефон. Придя в себя, мужчина пытается дозвониться в службу спасения, но диспетчер почему-то не спешит высылать ему спасателей на помощь.",
+      "rating": {
+        "kp": 0,
+        "imdb": 8.9
+      },
+      "movieLength": 16,
+      "ageRating": 16,
+      "genres": [
+        {
+          "name": "короткометражка"
+        },
+        {
+          "name": "ужасы"
+        },
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "музыка"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Россия"
+        }
+      ],
+      "isSeries": false,
+      "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/0f400ac7-630f-402f-aba1-4e6b0da6dd3e/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/0f400ac7-630f-402f-aba1-4e6b0da6dd3e/orig"
+      }
+    },
+    {
+      "id": "6648594",
+      "name": "Клуб убийц",
+      "type": "tv-series",
+      "year": 2024,
+      "description": "Сотрудница полиции отпускает единственного свидетеля в деле о серийных убийствах. Она объединяется с бывшим профайлером, чтобы исправить свою ошибку и остановить убийцу, пока не стало слишком поздно.",
+      "rating": {
+        "kp": 0,
+        "imdb": 6.1
+      },
+      "genres": [
+        {
+          "name": "триллер"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Франция"
+        },
+        {
+          "name": "Бельгия"
+        }
+      ],
+      "isSeries": true,
+      "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4483445/bb457deb-5c97-4c4b-8001-9f707328406b/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4483445/bb457deb-5c97-4c4b-8001-9f707328406b/orig"
+      }
+    },
+    {
+      "id": "6738356",
+      "name": "Садовник",
+      "type": "movie",
+      "year": 2025,
+      "description": "В правительстве решают устранить Сержа, который хранит государственную тайну. От смерти мужчину спасает его садовник Лео.",
+      "rating": {
+        "kp": 5.112,
+        "imdb": 4.1
+      },
+      "movieLength": 110,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10671298/aae3d484-b336-40f8-b940-8f10fc2336b3/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10671298/aae3d484-b336-40f8-b940-8f10fc2336b3/x1000"
+      },
+      "genres": [
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Франция"
+        }
+      ],
+      "isSeries": false
+    },
+    {
+      "id": 6455286,
+      "name": "Лови момент",
+      "type": "tv-series",
+      "year": 2024,
+      "description": "В 48 лет Том Вильнёв выходит из тюрьмы, отсидев 17 лет за преступление, которого не совершал. Теперь он адвокат, защищающий несправедливо обвинённых.",
+      "rating": {
+        "kp": 0,
+        "imdb": 6.7
+      },
+      "genres": [
+        {
+          "name": "боевик"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Франция"
+        }
+      ],
+      "isSeries": true,
+      "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10671298/4204ca9e-4cfd-4d39-91e4-8fff3ba47577/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10671298/4204ca9e-4cfd-4d39-91e4-8fff3ba47577/orig"
+      }
+    },
+    {
+      "id": "6437423",
+      "name": "Самбра: Анатомия преступления",
+      "type": "tv-series",
+      "year": 2023,
+      "description": "Франция, 1980-е. Женщины подвергаются нападениям на дороге у реки. Десятилетие спустя молодая судья обнаруживает связь между несколькими делами, указывающую на серийного насильника.",
+      "rating": {
+        "kp": 7.304,
+        "imdb": 8
+      },
+      "seriesLength": 60,
+      "ageRating": 18,
+      "genres": [
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "криминал"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Франция"
+        }
+      ],
+      "isSeries": true,
+      "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1898899/32d6f813-05e3-41b8-a4df-cad2c7908df1/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1898899/32d6f813-05e3-41b8-a4df-cad2c7908df1/orig"
+      }
+    },
+    {
+      "id": "1319263",
+      "name": "Герой СамСам",
+      "type": "cartoon",
+      "year": 2019,
+      "description": "СамПланета в опасности! На родную обитель знаменитого СамСама напали Мрачуны – инопланетные жуки, которые распространяют по всей Вселенной… грусть. Чтобы победить полчища Мрачунов, герою на помощь придет его давняя подруга по переписке с соседней планеты.",
+      "rating": {
+        "kp": 8.168,
+        "imdb": 5
+      },
+      "movieLength": 77,
+      "ageRating": 6,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1773646/9bbd820c-ba4a-4dcd-9517-82d7de8a7e43/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1773646/9bbd820c-ba4a-4dcd-9517-82d7de8a7e43/x1000"
+      },
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "приключения"
+        },
+        {
+          "name": "семейный"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Бельгия"
+        },
+        {
+          "name": "Франция"
+        }
+      ],
+      "isSeries": false
+    },
+    {
+      "id": "727222",
+      "name": "Таинственные золотые города",
+      "type": "animated-series",
+      "year": 2012,
+      "description": "Десять тысяч лет назад народ Му населял Землю. Их научные познания были необычайно развиты. Император Му предвидел конец своего мира. Он построил семь городов в четырех углах мира, где скрывал семь величайших секретов цивилизации в надежде, что однажды будущие цивилизации начнутся там, где его народ остановился. Ученые Му решили, что только двое детей, достойных этого наследия, могут иметь к ним доступ.",
+      "rating": {
+        "kp": 9,
+        "imdb": 8.1
+      },
+      "seriesLength": 23,
+      "ageRating": 6,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4774061/8f78d005-0b83-4225-adca-f2c3f5b97d96/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4774061/8f78d005-0b83-4225-adca-f2c3f5b97d96/x1000"
+      },
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "фэнтези"
+        },
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "приключения"
+        },
+        {
+          "name": "семейный"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Франция"
+        },
+        {
+          "name": "Бельгия"
+        }
+      ],
+      "isSeries": true
+    },
+    {
+      "id": "6329360",
+      "name": "Затмение",
+      "type": "tv-series",
+      "year": 2024,
+      "description": "Франция, плато Обрак. Жители готовятся увидеть полное солнечное затмение. Во время затмения 18-летний парень Лука случайно стреляет в свою девушку Нур, а когда приводит к месту трагедии помощь, то ее уже не находят. Матери Луки, сотруднице полиции по имени Маню, и ее напарнице Жоанне предстоит разобраться в этом загадочном преступлении, попутно раскрывая мрачные тайны местных жителей и решая болезненные семейные проблемы.",
+      "rating": {
+        "kp": 7.163,
+        "imdb": 6
+      },
+      "seriesLength": 52,
+      "ageRating": 18,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4486362/7c448d85-af24-46fc-92a3-a9bf90e60d07/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4486362/7c448d85-af24-46fc-92a3-a9bf90e60d07/x1000"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "криминал"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Франция"
+        }
+      ],
+      "isSeries": true
+    },
+    {
+      "id": "5192346",
+      "name": "С чистого листа",
+      "type": "tv-series",
+      "year": 2022,
+      "description": "Квалифицированная команда уборщиков во главе с экспертом Хейли Литч приезжает в самые грязные дома Великобритании, чтобы преобразить их и определить привычки, которые приводят к беспорядку.",
+      "rating": {
+        "kp": 0,
+        "imdb": 7
+      },
+      "seriesLength": 45,
+      "ageRating": 18,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10592371/608bd0ef-f6fb-4f88-9a76-54afeaebc8ac/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10592371/608bd0ef-f6fb-4f88-9a76-54afeaebc8ac/x1000"
+      },
+      "genres": [
+        {
+          "name": "реальное ТВ"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Великобритания"
+        }
+      ],
+      "isSeries": true
+    },
+    {
+      "id": "5582364",
+      "name": "Догмен: Пушистая справедливость",
+      "type": "cartoon",
+      "year": 2025,
+      "description": "Когда полицейский Найт и его пёс Грег оказываются в эпицентре взрыва, спасти их удаётся, лишь пересадив человеку голову собаки. Так на свет появляется Догмен — наполовину собака, наполовину человек.",
+      "rating": {
+        "kp": 6.669,
+        "imdb": 6.3
+      },
+      "movieLength": 89,
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "фэнтези"
+        },
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "приключения"
+        },
+        {
+          "name": "семейный"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "криминал"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        },
+        {
+          "name": "Великобритания"
+        }
+      ],
+      "isSeries": false,
+      "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/d432cf07-1a7e-4ff4-a1e9-4a71ebcb604b/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/d432cf07-1a7e-4ff4-a1e9-4a71ebcb604b/orig"
+      }
+    },
+    {
+      "id": "7225545",
+      "name": "Дэвид Аттенборо: Жизнь на Земле",
+      "type": "movie",
+      "year": 2023,
+      "description": "Рассказ о жизненном пути и карьере Дэвида Аттенборо, который уже более шести десятилетий озвучивает программы о природе, чем вдохновляет миллионы людей.",
+      "rating": {
+        "kp": 0,
+        "imdb": 8.3
+      },
+      "movieLength": 50,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10893610/04842109-37fb-4844-945c-1646b2789eb1/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10893610/04842109-37fb-4844-945c-1646b2789eb1/x1000"
+      },
+      "genres": [
+        {
+          "name": "документальный"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Великобритания"
+        }
+      ],
+      "isSeries": false
+    },
+    {
+      "id": "6580619",
+      "name": "Яблочный уксус",
+      "type": "tv-series",
+      "year": 2025,
+      "description": "Белл Гибсон ведёт блог, в котором с большим успехом выдаёт себя за больную раком и рассказывает подписчикам о борьбе с недугом.",
+      "rating": {
+        "kp": 7.167,
+        "imdb": 7.2
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10768063/98f22946-738c-4e3c-816c-cdd9eaeca344/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10768063/98f22946-738c-4e3c-816c-cdd9eaeca344/x1000"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "криминал"
+        },
+        {
+          "name": "биография"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Австралия"
+        },
+        {
+          "name": "Великобритания"
+        }
+      ],
+      "isSeries": true
+    },
+    {
+      "id": "6559163",
+      "name": "Переходный возраст",
+      "type": "tv-series",
+      "year": 2025,
+      "description": "13-летнего Джейми обвиняют в убийстве одноклассницы.",
+      "rating": {
+        "kp": 7.441,
+        "imdb": 8.4
+      },
+      "seriesLength": 55,
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "криминал"
+        },
+        {
+          "name": "детектив"
+        },
+        {
+          "name": "триллер"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Великобритания"
+        }
+      ],
+      "isSeries": true,
+      "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10893610/367126f8-049e-4180-9db3-969a5e652c7d/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10893610/367126f8-049e-4180-9db3-969a5e652c7d/orig"
+      }
+    },
+    {
+      "id": "6459084",
+      "name": "Наши океаны",
+      "type": "tv-series",
+      "year": 2024,
+      "description": "Рассказ о жизни таинственных обитателей глубоководья и уникальной экосистеме одного из пяти мировых океанов.",
+      "rating": {
+        "kp": 0,
+        "imdb": 8
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10671298/d05d4eeb-8ef5-405e-bf6f-8ff35d243f82/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10671298/d05d4eeb-8ef5-405e-bf6f-8ff35d243f82/x1000"
+      },
+      "genres": [
+        {
+          "name": "документальный"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Великобритания"
+        }
+      ],
+      "isSeries": true
+    },
+    {
+      "id": "6399111",
+      "name": "Абсолютный хищник",
+      "type": "movie",
+      "year": 2025,
+      "description": "В живописных лесах Луизианы терпит крушение небольшой пассажирский самолет. Помощи ждать неоткуда, мобильная связь мертва. Единственный путь к спасению пролегает через болотистую местность, где обитают аллигаторы. У них агрессивный нрав, высокая подвижность и отменный аппетит. И кажется, уже ничто не в силах испортить им трапезу.",
+      "rating": {
+        "kp": 4.671,
+        "imdb": 4.3
+      },
+      "movieLength": 87,
+      "ageRating": 18,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10703859/26d445c8-0bdf-47fd-8f1e-7b8b92daf7d4/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10703859/26d445c8-0bdf-47fd-8f1e-7b8b92daf7d4/x1000"
+      },
+      "genres": [
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "ужасы"
+        },
+        {
+          "name": "боевик"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Великобритания"
+        }
+      ],
+      "isSeries": false
+    },
+    {
+      "id": "7086794",
+      "name": "Дева",
+      "type": "movie",
+      "year": 2025,
+      "description": "Крутой, но непокорный полицейский оказывается в паутине обмана и предательства во время расследования громкого дела.",
+      "rating": {
+        "kp": 0,
+        "imdb": 7.3
+      },
+      "movieLength": 156,
+      "ageRating": 18,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4486454/6b03a56c-a751-455b-a10e-e59c08576457/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4486454/6b03a56c-a751-455b-a10e-e59c08576457/x1000"
+      },
+      "genres": [
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "триллер"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Индия"
+        }
+      ],
+      "isSeries": false
+    },
+    {
+      "id": "1264824",
+      "name": "Вне закона: Правосудие без порядка",
+      "type": "tv-series",
+      "year": 2020,
+      "description": "Молодая юристка Нихарика Сингх вынуждена сражаться за справедливость одновременно на стороне своего начальника Джанардана Джейтли и против него.",
+      "rating": {
+        "kp": 0,
+        "imdb": 6.8
+      },
+      "ageRating": 18,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1898899/2872bf8f-ff1e-41f8-837e-ca95260bfa2e/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1898899/2872bf8f-ff1e-41f8-837e-ca95260bfa2e/x1000"
+      },
+      "genres": [
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "криминал"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Индия"
+        }
+      ],
+      "isSeries": true
+    },
+    {
+      "id": "4860660",
+      "name": "Пиноккио и его друзья",
+      "type": "animated-series",
+      "year": 2021,
+      "description": "В волшебной лавке чудес папы Джепетто живут уморительный Пиноккио и его друзья: кукла-пират Фрида, и вечно сварливый Говорящий сверчок. Этим троим всегда есть чем заняться: когда они вместе, для них не существует мест, куда невозможно попасть, и задач, которые невозможно решить.",
+      "rating": {
+        "kp": 0,
+        "imdb": 5
+      },
+      "ageRating": 6,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10812607/d4666198-930b-4b7c-9362-d568f0121cad/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10812607/d4666198-930b-4b7c-9362-d568f0121cad/x1000"
+      },
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "детский"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Индия"
+        },
+        {
+          "name": "Италия"
+        }
+      ],
+      "isSeries": true
+    },
+    {
+      "id": "1392657",
+      "name": "Рубеж: Внутренняя осада",
+      "type": "tv-series",
+      "year": 2020,
+      "description": "История противостоянии Индии и Пакистана, затрагивающая реальные события, произошедшие в 2006 году. Напряженные отношения двух государств еще больше осложняются под влиянием деятельности террористической группировки, базирующейся в Кашмире. Жизни многих людей стремительно и кардинально меняются под давлением внешних обстоятельств.",
+      "rating": {
+        "kp": 0,
+        "imdb": 7.7
+      },
+      "seriesLength": 40,
+      "ageRating": 18,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1898899/001fe75d-43a8-4035-bb20-2be0b9be74e3/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1898899/001fe75d-43a8-4035-bb20-2be0b9be74e3/x1000"
+      },
+      "genres": [
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "военный"
+        },
+        {
+          "name": "история"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Индия"
+        }
+      ],
+      "isSeries": true
+    },
+    {
+      "id": "1385392",
+      "name": "Невидимый",
+      "type": "tv-series",
+      "year": 2020,
+      "description": "Западная Бенгалия. Сюда приезжают, чтобы отдохнуть на живописных горных курортах. И здесь же держит свой отель дружная семья, которая зарабатывает деньги честным трудом и мечтает о лучшей жизни. Первой ласточкой светлого будущего должна была стать свадьба старшего сына, но подготовка к празднику неожиданно обрывается из-за страшных событий, развернувшихся в горах. Именно в этих красивейших местах находят тело неизвестного человека. До этого в деревне неподалеку пропали две молодые девушки, что наводит на мысль о том, что загадочный убийца решил надолго задержаться в прекрасной Бенгалии.",
+      "rating": {
+        "kp": 0,
+        "imdb": 7.9
+      },
+      "seriesLength": 32,
+      "ageRating": 18,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4774061/759c27f9-d33f-4b5b-87bf-b6d92a3cabe1/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4774061/759c27f9-d33f-4b5b-87bf-b6d92a3cabe1/x1000"
+      },
+      "genres": [
+        {
+          "name": "криминал"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Индия"
+        }
+      ],
+      "isSeries": true
+    },
+    {
+      "id": "6303864",
+      "name": "Лабиринт 3",
+      "type": "movie",
+      "year": 2024,
+      "description": "Рухан — мошенник, выдающий себя за экзорциста. Взявшись за очередное дело, он рассчитывает на легкий заработок, но сталкивается с реальным злом.",
+      "rating": {
+        "kp": 0,
+        "imdb": 4.7
+      },
+      "movieLength": 158,
+      "ageRating": 16,
+      "genres": [
+        {
+          "name": "ужасы"
+        },
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Индия"
+        }
+      ],
+      "isSeries": false,
+      "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10768063/996eb0a2-eddb-4e6f-86f9-9c667c204940/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10768063/996eb0a2-eddb-4e6f-86f9-9c667c204940/orig"
+      }
+    },
+    {
+      "id": "1286572",
+      "name": "Робин Гуд: Проказник из Шервуда",
+      "type": "animated-series",
+      "year": 2014,
+      "description": "Подросток Робин из Локсли и его верные друзья находятся вне закона и противостоят власти и тирании молодого принца Джона. Они всегда готовы помочь нуждающемуся и каждый день находят себе новые приключения.",
+      "rating": {
+        "kp": 8.938,
+        "imdb": 6.1
+      },
+      "seriesLength": 11,
+      "ageRating": 0,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10893610/b5090d44-06c5-4a04-8a8b-1af679fc90bd/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10893610/b5090d44-06c5-4a04-8a8b-1af679fc90bd/x1000"
+      },
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "короткометражка"
+        },
+        {
+          "name": "приключения"
+        },
+        {
+          "name": "семейный"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Франция"
+        },
+        {
+          "name": "Германия"
+        },
+        {
+          "name": "Индия"
+        }
+      ],
+      "isSeries": true
+    }
   ],
-  "profile": { "name": "typicode" }
+  "events": [
+    {
+      "id": "msk",
+      "list": [
+        {
+          "id": "food",
+          "list": [
+            {
+              "id": "event",
+              "list": [
+                {
+                  "id": "0",
+                  "img": "https://media.kudago.com/thumbs/l/images/event/1e/c9/1ec912617727a02ed91e438ad32bf0f3.jpg",
+                  "title": "Гастрономический мюзикл «Москва слезам не верит»",
+                  "link": "https://kudago.com/msk/event/teatr-moskva-slezam-ne-verit/",
+                  "ageRestriction": "18+",
+                  "description": "Проект нового формата объединил в себе мюзикл, изысканную авторскую кухню и танцевальную вечеринку.",
+                  "details": {
+                    "time": [
+                      {
+                        "id": 0,
+                        "name": "3 января 2024 – 31 марта 2025 весь день"
+                      }
+                    ],
+                    "place": "Театральное пространство «Одеон»",
+                    "cost": "от 6000 до 20 000 руб."
+                  },
+                  "likes": 25,
+                  "views": 36060,
+                  "button": "Купить билет",
+                  "buttonLink": "https://moscowmusical.ru/?utm_campaign=KudaGo_MSNV&utm_source=Site"
+                },
+                {
+                  "id": "1",
+                  "img": "https://media.kudago.com/thumbs/l/images/event/20/24/20247c4353d07148cbc7b539205577de.jpg",
+                  "title": "Гастротур с чаем из самовара, домашней выпечкой и дегустациями",
+                  "link": "https://kudago.com/msk/event/ekskursiya-gastrotur-s-chaem-iz-samovara-domashnej-vyipechkoj-i-degustatsiyami-syirov-i-vin/",
+                  "ageRestriction": "18+",
+                  "description": "Вкусные угощения, живописная природа и уютная атмосфера провинциальных городков — путешественники ближе...",
+                  "details": {
+                    "time": [
+                      {
+                        "id": 0,
+                        "name": "8–9 марта весь день"
+                      },
+                      {
+                        "id": 1,
+                        "name": "1–2 мая весь день"
+                      },
+                      {
+                        "id": 2,
+                        "name": "12–13 июня весь день"
+                      }
+                    ],
+                    "cost": "17 900 рублей"
+                  },
+                  "likes": 0,
+                  "views": 2250,
+                  "button": "Записаться на экскурсию",
+                  "buttonLink": "https://experience.tripster.ru/experience/53723/?utm_source=kudago&utm_medium=cpc&utm_campaign=offline2024_msk&utm_content=53723&erid=2SDnjdkRkqg"
+                },
+                {
+                  "id": "2",
+                  "img": "https://media.kudago.com/thumbs/l/images/event/01/d9/01d973568f757154d24d11b2d86bd5d0.jpg",
+                  "title": "Гастрономический квест «Мексика в Москве»",
+                  "link": "https://kudago.com/msk/event/ekskursiya-meksika-v-moskve/",
+                  "ageRestriction": "18+",
+                  "description": "Проникнуться культурой солнечной Мексики, не покидая границ Москвы, смогут участники увлекательной...",
+                  "details": {
+                    "time": [
+                      {
+                        "id": 0,
+                        "name": "1 января – 16 апреля"
+                      }
+                    ],
+                    "cost": "15000 рублей за группу до 3 человек или 5000 рублей за человека, если вас больше"
+                  },
+                  "likes": 1,
+                  "views": 2637,
+                  "button": "Записаться на экскурсию",
+                  "buttonLink": "https://experience.tripster.ru/experience/51519/?utm_source=kudago&utm_medium=cpc&utm_campaign=offline2024_spb&utm_content=51519&erid=2SDnjdkRkqg"
+                },
+                {
+                  "id": "3",
+                  "img": "https://media.kudago.com/thumbs/l/images/event/33/29/332992c05f724e725b766d61cded0d59.jpg",
+                  "title": "Индивидуальная экскурсия «Москва для кофеманов»",
+                  "link": "https://kudago.com/msk/event/ekskursiya-dlya-kofemanov/",
+                  "ageRestriction": "18+",
+                  "description": "Участники необычной экскурсии смогут приобщиться к столичной кофейной культуре и посетить знаковые...",
+                  "details": {
+                    "time": [
+                      {
+                        "id": 0,
+                        "name": "1 октября 2024 – 15 июля 2025 10:00–18:30"
+                      }
+                    ],
+                    "cost": "7900 рублей за группу до 4-х человек"
+                  },
+                  "likes": 21,
+                  "views": 5178,
+                  "button": "Записаться на экскурсию",
+                  "buttonLink": "https://experience.tripster.ru/experience/18890/?utm_source=kudago&utm_medium=cpc&utm_campaign=offline2024_msk&utm_content=18890&erid=2SDnjdkRkqg"
+                }
+              ]
+            },
+            {
+              "id": "restaurant",
+              "list": [
+                {
+                  "id": "4",
+                  "adress": {
+                    "street": "ул. Охотный Ряд, д. 2",
+                    "subway": "Охотный Ряд"
+                  },
+                  "img": "https://media.kudago.com/thumbs/l/images/place/67/ba/67ba9a32b5f1cd87a60a375c603d7beb.jpg",
+                  "title": "Ресторан MANUL",
+                  "link": "https://kudago.com/msk/place/restoran-manul/",
+                  "ageRestriction": "0+",
+                  "description": "Ресторан с кухней народов Сибири и русской печью расположился по соседству с Красной площадью. Здесь...",
+                  "cuisine": {
+                    "type": "restaurant",
+                    "text": "Авторская, русская"
+                  },
+                  "features": [
+                    {
+                      "id": "wi-fi",
+                      "name": "Бесплатный WI-FI",
+                      "text": "WI-FI"
+                    },
+                    {
+                      "id": "bill",
+                      "name": "Средний счёт: 7 000 руб.",
+                      "text": "7 000"
+                    }
+                  ],
+                  "likes": 4,
+                  "views": 843,
+                  "button": "Забронировать столик",
+                  "buttonLink": "https://manulmoscow.ru/?roistat=kudago_landing&amp;utm_campaign=promo&amp;utm_content=landing&amp;utm_medium=referral&amp;utm_source=kudago&amp;utm_term=klik"
+                },
+                {
+                  "id": "5",
+                  "adress": {
+                    "street": "ул. Октябрьская, д. 2",
+                    "subway": "Достоевская, Новослободская"
+                  },
+                  "img": "https://media.kudago.com/thumbs/l/images/place/b8/bb/b8bb2d4e4a10c60449fc4b4d8bf58e08.jpeg",
+                  "title": "Ресторан «В темноте?!»",
+                  "link": "https://kudago.com/msk/place/restoran-v-temnote/",
+                  "ageRestriction": "18+",
+                  "description": "Когда-то в такой ресторан можно было сходить только в Париже. А сейчас он есть и в Москве. Здесь работают...",
+                  "cuisine": {
+                    "type": "restaurant",
+                    "text": "Вегетарианская, европейская"
+                  },
+                  "features": [
+                    {
+                      "id": "bill",
+                      "name": "Средний счёт: 2 000 руб.",
+                      "text": "2 000"
+                    }
+                  ],
+                  "likes": 443,
+                  "views": 106355
+                },
+                {
+                  "id": "6",
+                  "adress": {
+                    "street": "наб. Краснопресненская, д. 12, лит. А",
+                    "subway": "Выставочная"
+                  },
+                  "img": "https://media.kudago.com/thumbs/l/images/place/57/7f/577f5c36bce56a1eb6406e14464e8eec.jpg",
+                  "title": "Ресторан-яхта «Чайка»",
+                  "link": "https://kudago.com/msk/place/restoran-chaika/",
+                  "ageRestriction": "0+",
+                  "description": "Ресторан «Чайка» расположен на двухпалубной яхте, с которой открывается чудесный вид на Москву-реку.",
+                  "cuisine": {
+                    "type": "restaurant",
+                    "text": "Авторская, европейская, итальянская, паназиатская, японская"
+                  },
+                  "features": [
+                    {
+                      "id": "bill",
+                      "name": "Средний счёт: 3 000 руб.",
+                      "text": "3 000"
+                    }
+                  ],
+                  "likes": 34,
+                  "views": 34977
+                },
+                {
+                  "id": "7",
+                  "adress": {
+                    "street": "ул. 1-я Тверская-Ямская, д. 29, стр. 1",
+                    "subway": "Белорусская"
+                  },
+                  "img": "https://media.kudago.com/thumbs/l/images/place/06/a5/06a5a45a2325c20174edf59d1e06d9e3.webp",
+                  "title": "Тайная чайная «Chainaya. Tea & Cocktails»",
+                  "link": "https://kudago.com/msk/place/tajnaya-chajnaya/",
+                  "ageRestriction": "18+",
+                  "description": "Эта чайная работает в закрытом формате — только для своих. На улице даже нет вывески, так как посторонних...",
+                  "cuisine": {
+                    "type": "restaurant",
+                    "text": "Китайская"
+                  },
+                  "features": [
+                    {
+                      "id": "bill",
+                      "name": "Средний счёт: 1 500 руб.",
+                      "text": "1 500"
+                    }
+                  ],
+                  "likes": 31,
+                  "views": 25652
+                }
+              ]
+            },
+            {
+              "id": "bar",
+              "list": [
+                {
+                  "id": "8",
+                  "adress": {
+                    "street": "ул. Большая Дмитровка, д. 13",
+                    "subway": "Пушкинская, Тверская, Театральная, Чеховская"
+                  },
+                  "img": "https://media.kudago.com/thumbs/l/images/place/16/c5/16c562121afa4de96a0ac893245fe5e5.jpeg",
+                  "title": "Бар Coyote Ugly",
+                  "link": "https://kudago.com/msk/place/coyoteugly/",
+                  "ageRestriction": "18+",
+                  "description": "Здесь не просто можно, но и нужно танцевать на барной стойке!",
+                  "likes": 234,
+                  "views": 161177
+                },
+                {
+                  "id": "9",
+                  "adress": {
+                    "street": "пр-д Лубянский, д. 15/2",
+                    "subway": "Китай-город"
+                  },
+                  "img": "https://media.kudago.com/thumbs/l/images/place/08/90/0890e7bfca8a8f9285827d47d705f05f.jpg",
+                  "title": "Караоке-клуб Jimmy Poy",
+                  "link": "https://kudago.com/msk/place/karaoke-klub-jimmypoy/",
+                  "ageRestriction": "18+",
+                  "description": "Модный частный клуб для ценителей пения в роскошной обстановке. Кроме того, Jimmy Poy — это ещё и...",
+                  "cuisine": {
+                    "type": "bar",
+                    "text": " Живая музыка, коктейли, крепкие напитки, тематические бары"
+                  },
+                  "features": [
+                    {
+                      "id": "bill",
+                      "name": "Средний счёт: 3 000 руб.",
+                      "text": "3 000"
+                    }
+                  ],
+                  "likes": 11,
+                  "views": 34254
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "exibit",
+          "list": [
+            {
+              "id": "10",
+              "img": "https://media.kudago.com/thumbs/l/images/event/fe/a5/fea5beb09717b87a0baff5eb26594cff.png",
+              "title": "Выставка «Метафизические зеркала Худякова»",
+              "link": "https://kudago.com/msk/event/vyistavka-metafizicheskie-zerkala-hudyakova/",
+              "ageRestriction": "18+",
+              "description": "Выставка проходит в рамках проекта «Рефракция реальности», посвящённого 80-летию Константина Худякова —...",
+              "details": {
+                "time": [
+                  {
+                    "id": 0,
+                    "name": "до 20 марта 12:00–22:00"
+                  }
+                ],
+                "place": "Центр современного искусства «М'АРС»",
+                "cost": "от 700 до 900 руб."
+              },
+              "likes": 7,
+              "views": 727,
+              "button": "Купить билет",
+              "buttonLink": "https://centermars.ru/projects/metafizicheskie-zerkala-hudyakova/"
+            },
+            {
+              "id": "11",
+              "img": "https://media.kudago.com/thumbs/l/images/event/9a/7f/9a7fd4ac0e179a4ecf60104f7a0656e8.JPG",
+              "title": "Выставка «SENSE. Геометрия чувств»",
+              "link": "https://kudago.com/msk/event/vyistavka-sense-geometriya-chuvstv/",
+              "ageRestriction": "0+",
+              "description": "Масштабная иммерсивная выставка с использованием современных технологий возвращает человека к природе,...",
+              "details": {
+                "time": [
+                  {
+                    "id": 0,
+                    "name": "до 28 февраля 12:00–22:00"
+                  }
+                ],
+                "place": "Центр современного искусства «М'АРС»",
+                "cost": "1200 руб. по будням, 1400 руб. по выходным"
+              },
+              "likes": 37,
+              "views": 37023,
+              "button": "Узнать подробности",
+              "buttonLink": "https://centermars.ru/projects/sense/"
+            },
+            {
+              "id": "12",
+              "img": "https://media.kudago.com/thumbs/l/images/event/fc/7a/fc7a55e3897601089ddc88bd3f13d2ac.jpg",
+              "title": "Проект VR Gallery",
+              "link": "https://kudago.com/msk/event/vyistavka-vr-gallery/",
+              "ageRestriction": "16+",
+              "description": "VR Gallery — уникальный проект, который позволяет виртуально оказаться в совершенно разных пространствах,...",
+              "details": {
+                "time": [
+                  {
+                    "id": 0,
+                    "name": "до 3 апреля 12:00–22:00"
+                  }
+                ],
+                "place": "Музей «АртДинамикс»",
+                "cost": "от 950 до 1100 рублей"
+              },
+              "likes": 1151,
+              "views": 268045,
+              "button": "Узнать подробности",
+              "buttonLink": "http://artdynamics.ru/vrgallery"
+            },
+            {
+              "id": "13",
+              "img": "https://media.kudago.com/thumbs/l/images/event/2d/b5/2db579d9e75217edef4d673dd5ed14c0.jpg",
+              "title": "Выставка «Сальвадор Дали & Пабло Пикассо»",
+              "link": "https://kudago.com/msk/event/vyistavka-salvador-dali-and-pablo-pikasso/",
+              "ageRestriction": "6+",
+              "description": "Добро пожаловать в мир сюрреализма! На выставке в усадьбе Голицыных вы увидите подлинные работы Дали и...",
+              "details": {
+                "time": [
+                  {
+                    "id": 0,
+                    "name": "до 11 мая 12:00–21:00"
+                  }
+                ],
+                "place": "Усадьба Голицыных в саду имени Баумана",
+                "cost": "от 400 до 800 рублей"
+              },
+              "likes": 37,
+              "views": 699470,
+              "button": "Купить билет",
+              "buttonLink": "https://iskusstvo.org/proekty-fonda-iskusstvo-natsiy/vystavka-dali-i-pikasso/?utm_source=kudago&utm_medium=article&utm_campaign=promo&erid=2SDnjdh4JYb"
+            }
+          ]
+        },
+        {
+          "id": "excursion",
+          "list": [
+            {
+              "id": "14",
+              "img": "https://media.kudago.com/thumbs/l/images/event/1b/7e/1b7ec10d221ac633641575d4bb6aa718.jpg",
+              "title": "Автобусная экскурсия «Легенды и мифы сталинских высоток»",
+              "link": "https://kudago.com/msk/event/ekskursiya-legendyi-i-mifyi-stalinskih-vyisotok/",
+              "ageRestriction": "6+",
+              "description": "Когда-то эти гигантские здания должны были на весь мир заявлять о мощи советского государства. Теперь же...",
+              "details": {
+                "time": [
+                  {
+                    "id": 0,
+                    "name": "1 февраля – 27 апреля сб, вс 16:00"
+                  }
+                ],
+                "cost": "от 1100 до 1300 рублей"
+              },
+              "likes": 74,
+              "views": 8802,
+              "button": "Записаться на экскурсию",
+              "buttonLink": "https://незабываемая.москва/excursions/23-ekskursiya_po_stalinskikh_vysotkam.html?utm_source=kudago&utm_campaign=Legendy-i-mify-stalinskikh-vysotok&erid=Pb3XmBtzt6UoCrvsRVwHjPNJV5QDETuCTZoNMLr"
+            },
+            {
+              "id": "15",
+              "img": "https://media.kudago.com/thumbs/l/images/event/e7/b2/e7b28f98ffd651878e982e4063d48422.png",
+              "title": "Экскурсия «Новодевичье кладбище: некрополь советской элиты»",
+              "link": "https://kudago.com/msk/event/ekskursiya-novodeviche-kladbische-nekropol-sovetskoj-elityi/",
+              "ageRestriction": "6+",
+              "description": "На прогулке по тропинкам одного из самых посещаемых кладбищ столицы гид познакомит участников с... ",
+              "details": {
+                "time": [
+                  {
+                    "id": 0,
+                    "name": "1 января – 19 апреля"
+                  }
+                ],
+                "cost": "3990 рублей за группу до 2 человек или 1995 рублей за человека, если вас больше"
+              },
+              "likes": 6,
+              "views": 1234,
+              "button": "Записаться на экскурсию",
+              "buttonLink": "https://experience.tripster.ru/experience/25623/?utm_source=kudago&utm_medium=cpc&utm_campaign=offline2024_msk&utm_content=25623&erid=2SDnjdkRkqg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spb",
+      "list": [
+        {
+          "id": "food",
+          "list": [
+            {
+              "id": "event",
+              "list": [
+                {
+                  "id": "16",
+                  "img": "https://media.kudago.com/thumbs/l/images/event/73/a3/73a377f3aea49030f3cc5a92cdda9c8d.jpg",
+                  "title": "Мастер-класс по бенто-тортам в историческом особняке",
+                  "link": "https://kudago.com/spb/event/obuchenie-master-klass-po-bento-tortam/",
+                  "ageRestriction": "12+",
+                  "description": "В творческой атмосфере участники мастер-класса приобщатся к кондитерскому ремеслу и соберут стильный...",
+                  "details": {
+                    "time": [
+                      {
+                        "id": 0,
+                        "name": "26 января – 20 апреля"
+                      }
+                    ],
+                    "cost": "4500 рублей"
+                  },
+                  "likes": 1,
+                  "views": 877,
+                  "button": "Записаться на мастер-класс",
+                  "buttonLink": "https://experience.tripster.ru/experience/60135/?utm_source=kudago&utm_medium=cpc&utm_campaign=offline2024_msk&utm_content=60135&erid=2SDnjbq7foG"
+                },
+                {
+                  "id": "17",
+                  "img": "https://media.kudago.com/thumbs/l/images/event/25/36/2536d97b21b498af976a2a31ac4e29e1.jpg",
+                  "title": "Экскурсия «Квест по местам петербургского общепита»",
+                  "link": "https://kudago.com/spb/event/ekskursiya-kvest-po-mestam-peterburgskogo-obschepita/",
+                  "ageRestriction": "6+",
+                  "description": "В Санкт-Петербурге хватает и культовых кафе и ресторанов, и тайных заведений, открытых только для своих...",
+                  "details": {
+                    "time": [
+                      {
+                        "id": 0,
+                        "name": "1 января – 20 июля 13:00–18:00"
+                      }
+                    ],
+                    "cost": "3000 рублей за группу до 7 человек"
+                  },
+                  "likes": 3,
+                  "views": 860,
+                  "button": "Записаться на экскурсию",
+                  "buttonLink": "https://experience.tripster.ru/experience/55120/?utm_source=kudago&utm_medium=cpc&utm_campaign=offline2024_msk&utm_content=55120&erid=2SDnjdkRkqg"
+                },
+                {
+                  "id": "18",
+                  "img": "https://media.kudago.com/thumbs/l/images/event/47/49/47497c56266fcd73ed7451cf95dc9f0c.jpg",
+                  "title": "Кофейная экскурсия по Санкт-Петербургу с дегустацией",
+                  "link": "https://kudago.com/spb/event/ekskursiya-kofejnaya-ekskursiya/",
+                  "ageRestriction": "18+",
+                  "description": "Участники экскурсии совместят дружеские посиделки в кафе с мастер-классом, на котором узнают много...",
+                  "details": {
+                    "time": [
+                      {
+                        "id": 0,
+                        "name": "19–26 февраля"
+                      },
+                      {
+                        "id": 1,
+                        "name": "1–26 марта"
+                      },
+                      {
+                        "id": 2,
+                        "name": "29–30 марта"
+                      }
+                    ],
+                    "cost": "1666 рублей"
+                  },
+                  "likes": 1,
+                  "views": 1161,
+                  "button": "Записаться на экскурсию",
+                  "buttonLink": "https://experience.tripster.ru/experience/34551/?utm_source=kudago&utm_medium=cpc&utm_campaign=offline2024_msk&utm_content=34551&erid=2SDnjdkRkqg"
+                }
+              ]
+            },
+            {
+              "id": "restaurant",
+              "list": [
+                {
+                  "id": "19",
+                  "adress": {
+                    "street": "пер. Гривцова, д. 13/11"
+                  },
+                  "img": "https://media.kudago.com/thumbs/l/images/place/49/c3/49c367c0dd585bad46d08535f75b0ac0.jpg",
+                  "title": "IT-ресторан «Игристые»",
+                  "link": "https://kudago.com/spb/place/restoran-igristyie/",
+                  "ageRestriction": "0+",
+                  "description": "В IT-ресторане «Игристые», расположенном у Сенной площади, объединились вкусная кухня и современные...",
+                  "cuisine": {
+                    "type": "restaurant",
+                    "text": "Европейская"
+                  },
+                  "features": [
+                    {
+                      "id": "bill",
+                      "name": "Средний счёт: 1 300 руб.",
+                      "text": "1 300"
+                    }
+                  ],
+                  "likes": 13,
+                  "views": 5862
+                },
+                {
+                  "id": "20",
+                  "adress": {
+                    "street": "ул. Малая Конюшенная, д. 7",
+                    "subway": "Невский Проспект"
+                  },
+                  "img": "https://media.kudago.com/thumbs/l/images/place/23/20/2320cedc83cba9fcb386eb966bfbd026.jpg",
+                  "title": "Креативный ресторан Wine Gogh",
+                  "link": "https://kudago.com/spb/place/restoran-wine-gogh/",
+                  "ageRestriction": "0+",
+                  "description": "Благодаря креативному ресторану Wine Gogh теперь можно объединить любовь к искусству, необычным местам,...",
+                  "cuisine": {
+                    "type": "restaurant",
+                    "text": "Европейская"
+                  },
+                  "features": [
+                    {
+                      "id": "bill",
+                      "name": "Средний счёт: 2 000 руб.",
+                      "text": "2 000"
+                    }
+                  ],
+                  "likes": 3,
+                  "views": 660,
+                  "button": "Забронировать стол",
+                  "buttonLink": "https://winegoghrest.com/"
+                }
+              ]
+            },
+            {
+              "id": "bar",
+              "list": [
+                {
+                  "id": "21",
+                  "adress": {
+                    "street": "ул. Жуковского, д. 3",
+                    "subway": "Маяковская"
+                  },
+                  "img": "https://media.kudago.com/thumbs/l/images/place/e8/13/e813654d69a84c8512477ea53f4ab320.jpg",
+                  "title": "Бар «Синий Пушкин»",
+                  "link": "https://kudago.com/spb/place/bar-sinij-pushkin/",
+                  "ageRestriction": "18+",
+                  "description": "Неформальный рестобар, созданный при непосредственном участии Сергея Шнурова. Здесь можно не только вкусно...",
+                  "cuisine": {
+                    "type": "bar",
+                    "text": " Живая музыка, коктейли, крепкие напитки, тематические бары"
+                  },
+                  "features": [
+                    {
+                      "id": "bill",
+                      "name": "Средний счёт: 1 500 руб.",
+                      "text": "1 500"
+                    }
+                  ],
+                  "likes": 101,
+                  "views": 65550
+                },
+                {
+                  "id": "22",
+                  "adress": {
+                    "street": "ул. Рубинштейна, д. 9",
+                    "subway": "Владимирская, Достоевская, Маяковская"
+                  },
+                  "img": "https://media.kudago.com/thumbs/l/images/place/16/9e/169ea7d3fbadc09b01e26fc172799db4.jpg",
+                  "title": "Punk Brew",
+                  "link": "https://kudago.com/spb/place/punk-brew/",
+                  "ageRestriction": "18+",
+                  "description": "Это не бар, не кафе и не ресторан. Это — вызов всем традиционным форматам. Воплощённая свобода в...",
+                  "cuisine": {
+                    "type": "bar",
+                    "text": " Пивная"
+                  },
+                  "features": [
+                    {
+                      "id": "wi-fi",
+                      "name": "Бесплатный WI-FI",
+                      "text": "WI-FI"
+                    }
+                  ],
+                  "likes": 118,
+                  "views": 75775
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "exibit",
+          "list": [
+            {
+              "id": "23",
+              "img": "https://media.kudago.com/thumbs/l/images/event/66/19/661976678dda4ee12b0db43730200da0.png",
+              "title": "Психологические выставки в галерее «Путь»",
+              "link": "https://kudago.com/spb/event/psihologicheskie-vyistavki/",
+              "ageRestriction": "18+",
+              "description": "Этот уникальный проект создаёт психологические выставки в темноте. Выставки включают в себя аудиоподкасты,...",
+              "details": {
+                "time": [
+                  {
+                    "id": 0,
+                    "name": "до 28 февраля 12:00–21:00"
+                  }
+                ],
+                "place": "Галерея «ПУТЬ»",
+                "cost": "от 800 (с понедельника по пятницу) до 1000 рублей (по выходным)"
+              },
+              "likes": 135,
+              "views": 86760,
+              "button": "Записаться",
+              "buttonLink": "https://gallery-way.ru/"
+            },
+            {
+              "id": "24",
+              "img": "06/64/06645f607bb2b2a165adde3db8bf8287.jpg",
+              "title": "Выставка-байопик «Виктор Цой. Легенда» в пространстве «Севкабель Порт»",
+              "link": "https://kudago.com/spb/event/vyistavka-viktor-tsoj-legenda/",
+              "ageRestriction": "12+",
+              "description": "На масштабной выставке в «Севкабель Порту» оживает мир Виктора Цоя. Здесь представлена уникальная...",
+              "details": {
+                "time": [
+                  {
+                    "id": 0,
+                    "name": "до 10 марта"
+                  }
+                ],
+                "place": "общественное пространство «Севкабель Порт»",
+                "cost": "от 700 рублей"
+              },
+              "likes": 7,
+              "views": 9862,
+              "button": "Купить билет",
+              "buttonLink": "https://tsoylegend.ru/"
+            }
+          ]
+        },
+        {
+          "id": "excursion",
+          "list": [
+            {
+              "id": "25",
+              "img": "https://media.kudago.com/thumbs/l/images/event/5a/44/5a4403c83c127a2e20b809ae70fc39fd.jpg",
+              "title": "Интерактивная экскурсия «Карты, игры, ловкость рук»",
+              "link": "https://kudago.com/spb/event/ekskursiya-kartyi-igryi-lovkost-ruk/",
+              "ageRestriction": "6+",
+              "description": "Кажется, что за карточным столом порой творится настоящая магия. Но не стоит забывать, что основные её...",
+              "details": {
+                "time": [
+                  {
+                    "id": 0,
+                    "name": "1 января – 21 апреля 11:00–22:00"
+                  }
+                ],
+                "cost": "650 рублей за человека"
+              },
+              "likes": 1,
+              "views": 812,
+              "button": "Записаться на экскурсию",
+              "buttonLink": "https://experience.tripster.ru/experience/38212/?utm_source=kudago&utm_medium=cpc&utm_campaign=offline2024_msk&utm_content=38212&erid=2SDnjdkRkqg"
+            },
+            {
+              "id": "26",
+              "img": "https://media.kudago.com/thumbs/l/images/event/25/36/2536d97b21b498af976a2a31ac4e29e1.jpg",
+              "title": "Экскурсия «Квест по местам петербургского общепита»",
+              "link": "https://kudago.com/spb/event/ekskursiya-kvest-po-mestam-peterburgskogo-obschepita/",
+              "ageRestriction": "6+",
+              "description": "В Санкт-Петербурге хватает и культовых кафе и ресторанов, и тайных заведений, открытых только для своих...",
+              "details": {
+                "time": [
+                  {
+                    "id": 0,
+                    "name": "1 января – 20 июля 13:00–18:00"
+                  }
+                ],
+                "cost": "3000 рублей за группу до 7 человек"
+              },
+              "likes": 3,
+              "views": 860,
+              "button": "Записаться на экскурсию",
+              "buttonLink": "https://experience.tripster.ru/experience/55120/?utm_source=kudago&utm_medium=cpc&utm_campaign=offline2024_msk&utm_content=55120&erid=2SDnjdkRkqg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "favourite": []
 }
