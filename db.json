@@ -3074,5 +3074,439 @@
       ]
     }
   ],
+  "music": {
+    "artists": [
+      {
+        "id": "0",
+        "artist": "Nirvana",
+        "preview": "https://i.pinimg.com/736x/ff/ce/90/ffce906020c822e24ab6ee66fdfc3259.jpg"
+      },
+      {
+        "id": "1",
+        "artist": "Billie Eilish",
+        "preview": "https://assets.vogue.com/photos/609bb445758287e5e091eeed/master/w_2560%2Cc_limit/Billie-Eilish-Happier-Than-Ever.jpeg"
+      },
+      {
+        "id": "2",
+        "artist": "Lil Nas X",
+        "preview": "https://www.media.hw-static.com/media/2021/06/nasx1-web.jpg"
+      },
+      {
+        "id": "3",
+        "artist": "Sex Pistols",
+        "preview": "https://i8.amplience.net/i/naras/gettyimages-592309028.jpg.jpg"
+      },
+      {
+        "id": "4",
+        "artist": "Lorde",
+        "preview": "https://s.wsj.net/public/resources/images/AR-AH882_Lorde_FR_20141120160910.jpg"
+      },
+      {
+        "id": "5",
+        "artist": "Adele",
+        "preview": "https://cdn-p.smehost.net/sites/005297e5d91d4996984e966fac4389ea/wp-content/uploads/2021/11/Adele.jpg"
+      },
+      {
+        "id": "6",
+        "artist": "Queen",
+        "preview": "https://lastfm.freetls.fastly.net/i/u/ar0/07358a878fa699f15f11408e0f52ae31.jpg"
+      },
+      {
+        "id": "7",
+        "artist": "Lady Gaga",
+        "preview": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-11970-20130730-ladygaga-x624-1375222819.jpg?w=624&h=420&crop=1"
+      },
+      {
+        "id": "8",
+        "artist": "Britney Spears",
+        "preview": "https://i8.amplience.net/i/naras/britney-spears_MI0004020953-MN0000628467"
+      },
+      {
+        "id": "9",
+        "artist": "Harry Styles",
+        "preview": "https://static.wikia.nocookie.net/harry-styles8955/images/9/9a/Hs_rs_3.jpg/revision/latest?cb=20170418202515"
+      },
+      {
+        "id": "10",
+        "artist": "BTS",
+        "preview": "https://m.media-amazon.com/images/M/MV5BYzU5NjA3Y2YtY2UwZi00ZDMwLWE5NjAtOTljNTA4NTI4ZjYyXkEyXkFqcGc@._V1_.jpg"
+      }
+    ],
+    "genres": [
+      {
+        "id": "0",
+        "genre": "grunge",
+        "preview": "https://a.d-cd.net/7fcc201s-1920.jpg"
+      },
+      {
+        "id": "1",
+        "genre": "rock",
+        "preview": "https://chasingthelightart.s3.eu-central-1.amazonaws.com/wp-content/uploads/20190212151037/editors011.jpg"
+      },
+      {
+        "id": "2",
+        "genre": "pop",
+        "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGMpb_e2xpKQl_oizqTmZ27QpVG2o9mRZloQ&s"
+      },
+      {
+        "id": "3",
+        "genre": "gospel",
+        "preview": "https://static.vecteezy.com/system/resources/thumbnails/034/594/879/small/concept-or-conceptual-wood-cross-or-religion-symbol-shape-over-a-sunset-sky-background-banner-ai-generated-photo.jpg"
+      },
+      {
+        "id": "4",
+        "genre": "industrial",
+        "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09aFMn5iFBd_q02jWMj7aAJJ5a2xugenm8BWm86zwvPcH9NOrmJJPWz8hGV1lX7qCmW8&usqp=CAU"
+      },
+      {
+        "id": "5",
+        "genre": "hip-hop",
+        "preview": "https://media.craiyon.com/2025-07-09/Ni-bd8SzTVy0YN64zO3VqQ.webp"
+      },
+      {
+        "id": "6",
+        "genre": "trap",
+        "preview": "https://www.vibe.com/wp-content/uploads/article_images/keE8cZwozRo.jpg?w=604"
+      },
+      {
+        "id": "7",
+        "genre": "folk",
+        "preview": "https://bandzoogle.com/files/4545/bzblog-how-to-design-a-great-folk-musician-website-main.jpg"
+      },
+      {
+        "id": "8",
+        "genre": "country",
+        "preview": "https://media.istockphoto.com/id/1435271127/photo/country-music-festival-live-concert-with-acoustic-guitar-cowboy-hat-and-boots.jpg?s=612x612&w=0&k=20&c=9HIbcttJDYyYYixwY4721y8mATyEsbqKXxAdhgMPGT8="
+      },
+      {
+        "id": "9",
+        "genre": "k-pop",
+        "preview": "https://img.freepik.com/premium-psd/kpop-music-representation-mockup_23-2150330334.jpg"
+      },
+      {
+        "id": "10",
+        "genre": "soul",
+        "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTvo2RqGcZ3oppo4Ce9zRLcjD4LSXJpKSeTA&s"
+      },
+      {
+        "id": "11",
+        "genre": "blues",
+        "preview": "https://getwallpapers.com/wallpaper/full/d/5/3/1410142-best-blues-music-wallpaper-1920x1280.jpg"
+      },
+      {
+        "id": "12",
+        "genre": "jazz",
+        "preview": "https://png.pngtree.com/thumb_back/fh260/background/20250227/pngtree-a-lively-jazz-bar-scene-featuring-musicians-and-an-audience-enjoying-image_17002257.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "id": "0",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "preview": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf"
+      },
+      {
+        "id": "1",
+        "artist": "Queen",
+        "album": "A Night at the Opera",
+        "preview": "https://upload.wikimedia.org/wikipedia/en/4/4d/Queen_A_Night_At_The_Opera.png"
+      },
+      {
+        "id": "2",
+        "artist": "Queen",
+        "album": "A Day at the Races",
+        "preview": "https://www.udiscovermusic.com/wp-content/uploads/2025/05/queen-day.jpg"
+      },
+      {
+        "id": "3",
+        "artist": "Sex Pistols",
+        "album": "Never Mind the Bollocks, Here's the Sex Pistols",
+        "preview": "https://www.emp.at/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-master-emp/default/dw084ecee9/images/4/0/0/7/400739.jpg?sw=1000&sh=800&sm=fit&sfrm=png"
+      },
+      {
+        "id": "4",
+        "artist": "Billie Eilish",
+        "album": "When We All Fall Asleep, Where Do We Go?",
+        "preview": "https://upload.wikimedia.org/wikipedia/ru/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png"
+      },
+      {
+        "id": "5",
+        "artist": "Harry Styles",
+        "album": "Harry's House",
+        "preview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Harry_Styles_-_Harry%27s_House.png/250px-Harry_Styles_-_Harry%27s_House.png"
+      },
+      {
+        "id": "6",
+        "artist": "Lady Gaga",
+        "album": "The Fame Monster",
+        "preview": "https://m.media-amazon.com/images/I/61uYBUlEacL._UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": "7",
+        "artist": "Lady Gaga",
+        "album": "The Fame",
+        "preview": "https://upload.wikimedia.org/wikipedia/en/d/dd/Lady_Gaga_%E2%80%93_The_Fame_album_cover.png"
+      },
+      {
+        "id": "8",
+        "artist": "Britney Spears",
+        "album": "…Baby One More Time",
+        "preview": "https://www.rollingstone.com/wp-content/uploads/2021/09/365-baby-one-more-time-britney-spears.jpg?w=800"
+      },
+      {
+        "id": "9",
+        "artist": "Britney Spears",
+        "album": "In the Zone",
+        "preview": "https://static.wikia.nocookie.net/britneyspears/images/4/4b/In_the_Zone_Prerelease_cover.jpg/revision/latest?cb=20240525232922"
+      },
+      {
+        "id": "10",
+        "artist": "BTS",
+        "album": "You Never Walk Alone",
+        "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90sJnngZJele_My4SELZbeBcfPmrmkPuGWQ&s"
+      },
+      {
+        "id": "11",
+        "artist": "BTS",
+        "album": "Be",
+        "preview": "https://upload.wikimedia.org/wikipedia/en/a/a2/BTS_-_Be_Cover.png"
+      },
+      {
+        "id": "12",
+        "artist": "Lorde",
+        "album": "Pure Heroine",
+        "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW0urT7wEAcsd3pVerOB5xEwPcKBDGN1rFwg&s"
+      },
+      {
+        "id": "13",
+        "artist": "Adele",
+        "album": "21",
+        "preview": "https://i.scdn.co/image/ab67616d0000b273744ea41a7c1ae57024752db9"
+      }
+    ], 
+    "tracks": [
+      {
+        "id": "0",
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "preview": "https://www.rollingstone.com/wp-content/uploads/2021/09/5-nirvana-smells-like-teen-spirit.jpeg?w=306",
+        "audio": "",
+        "length": "4:39",
+        "genre": "grunge / alternative rock / punk rock",
+        "year": "1991"
+      },
+      {
+        "id": "1",
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "album": "A Night at the Opera",
+        "preview": "https://www.udiscovermusic.com/wp-content/uploads/2018/09/Queen-Bohemian-Rhapsody-The-Original-Soundtrack-Cover-Art.jpeg.jpg",
+        "audio": "",
+        "length": "5:55",
+        "genre": "progressive rock / hard rock / progressive pop",
+        "year": "1975"
+      },
+      {
+        "id": "2",
+        "title": "Anarchy in the U.K.",
+        "artist": "Sex Pistols",
+        "album": "Never Mind the Bollocks, Here's the Sex Pistols",
+        "preview": "https://i1.sndcdn.com/artworks-000028143665-r1ssyg-t500x500.jpg",
+        "audio": "",
+        "length": "3:31",
+        "genre": "punk rock",
+        "year": "1977"
+      },
+      {
+        "id": "3",
+        "title": "Bad Guy",
+        "artist": "Billie Eilish",
+        "album": "When We All Fall Asleep, Where Do We Go?",
+        "preview": "https://i1.sndcdn.com/artworks-000585893159-qra1pk-t500x500.jpg",
+        "audio": "",
+        "length": "3:14",
+        "genre": "electropop / dance-pop / trap-pop",
+        "year": "2019"
+      },
+      {
+        "id": "4",
+        "title": "As It Was",
+        "artist": "Harry Styles",
+        "album": "Harry's House",
+        "preview": "https://media.wonderlandmagazine.com/uploads/2022/04/Harry-Styles-red-coat.jpg",
+        "audio": "",
+        "length": "2:47",
+        "genre": "synthpop / new wave",
+        "year": "2022"
+      },
+      {
+        "id": "5",
+        "title": "Old Town Road",
+        "artist": "Lil Nas X",
+        "album": "",
+        "preview": "https://www.rollingstone.com/wp-content/uploads/2021/09/500-lil-nas-x-old-town-road.jpg?w=500",
+        "audio": "",
+        "length": "1:53",
+        "genre": "hip-hop / trap / folk / country",
+        "year": "2019"
+      },
+      {
+        "id": "6",
+        "title": "Bad Romance",
+        "artist": "Lady Gaga",
+        "album": "The Fame Monster",
+        "preview": "https://www.rollingstone.com/wp-content/uploads/2021/09/481-lady-gaga-bad-romance.jpg?w=500",
+        "audio": "",
+        "length": "4:54",
+        "genre": "electropop / dance-pop",
+        "year": "2009"
+      },
+      {
+        "id": "7",
+        "title": "Royals",
+        "artist": "Lorde",
+        "album": "Pure Heroine",
+        "preview": "https://www.rollingstone.com/wp-content/uploads/2021/09/030-lorde-royals.jpg?w=770",
+        "audio": "",
+        "length": "3:10",
+        "genre": "electropop / alternative pop",
+        "year": "2011"
+      },
+      {
+        "id": "8",
+        "title": "Rolling in the Deep",
+        "artist": "Adele",
+        "album": "21",
+        "preview": "https://www.rollingstone.com/wp-content/uploads/2021/09/082-Adele-Rolling-In-The-Deep.jpg?w=800",
+        "audio": "",
+        "length": "3:48",
+        "genre": "soul / blues",
+        "year": "2011"
+      },
+      {
+        "id": "9",
+        "title": "…Baby One More Time",
+        "artist": "Britney Spears",
+        "album": "…Baby One More Time",
+        "preview": "https://www.rollingstone.com/wp-content/uploads/2021/09/365-baby-one-more-time-britney-spears.jpg?w=800",
+        "audio": "",
+        "length": "3:30",
+        "genre": "dance-pop",
+        "year": "1999"
+      },
+      {
+        "id": "10",
+        "title": "Spring Day",
+        "artist": "BTS",
+        "album": "You Never Walk Alone",
+        "preview": "https://www.rollingstone.com/wp-content/uploads/2022/03/bts-spring-day.jpg?w=800",
+        "audio": "",
+        "length": "4:34",
+        "genre": "hip-hop / dance-pop / k-pop",
+        "year": "2017"
+      },
+      {
+        "id": "11",
+        "title": "God Save the Queen",
+        "artist": "Sex Pistols",
+        "album": "Never Mind the Bollocks, Here's the Sex Pistols",
+        "preview": "https://upload.wikimedia.org/wikipedia/en/d/dd/Sex_Pistols_-_God_Save_the_Queen.jpg",
+        "audio": "",
+        "length": "3:20",
+        "genre": "punk rock",
+        "year": "1977"
+      },
+      {
+        "id": "12",
+        "title": "Rumor Has It",
+        "artist": "Adele",
+        "album": "21",
+        "preview": "https://www.goldderby.com/wp-content/uploads/2024/05/adele-rumor-has-it.jpg?w=620",
+        "audio": "",
+        "length": "3:43",
+        "genre": "soul / blues / jazz",
+        "year": "2011"
+      },
+      {
+        "id": "13",
+        "title": "Dynamite",
+        "artist": "BTS",
+        "album": "Be",
+        "preview": "https://www.rollingstone.com/wp-content/uploads/2021/09/341-dynamite-bts.jpeg?w=600",
+        "audio": "",
+        "length": "3:19",
+        "genre": "k-pop",
+        "year": "2020"
+      },
+      {
+        "id": "14",
+        "title": "Everybody Wants to Rule the World",
+        "artist": "Lorde",
+        "album": "",
+        "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxI4pFekA_m-mwynIuae4N6reDBgBbLBWur8dRmmx3U5t20oCZXwUgivPnL69GxBOL450&usqp=CAU",
+        "audio": "",
+        "length": "2:36",
+        "genre": "synthpop / new wave",
+        "year": "2014"
+      },
+      {
+        "id": "15",
+        "title": "You Should See Me in a Crown",
+        "artist": "Billie Eilish",
+        "album": "When We All Fall Asleep, Where Do We Go?",
+        "preview": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Billie_Eilish_%E2%80%93_You_Should_See_Me_in_a_Crown.png/250px-Billie_Eilish_%E2%80%93_You_Should_See_Me_in_a_Crown.png",
+        "audio": "",
+        "length": "3:00",
+        "genre": "electropop / industrial",
+        "year": "2018"
+      },
+      {
+        "id": "16",
+        "title": "Toxic",
+        "artist": "Britney Spears",
+        "album": "In the Zone",
+        "preview": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Britney_Spears_Toxic.png/250px-Britney_Spears_Toxic.png",
+        "audio": "",
+        "length": "3:19",
+        "genre": "dance-pop / techno-pop / electropop",
+        "year": "2003"
+      },
+      {
+        "id": "17",
+        "title": "Poker Face",
+        "artist": "Lady Gaga",
+        "album": "The Fame",
+        "preview": "https://images.genius.com/6d4915528495453664d61b6e93bf069b.1000x1000x1.png",
+        "audio": "",
+        "length": "3:58",
+        "genre": "synthpop / dance-pop",
+        "year": "2008"
+      },
+      {
+        "id": "18",
+        "title": "Somebody to Love",
+        "artist": "Queen",
+        "album": "A Day at the Races",
+        "preview": "https://upload.wikimedia.org/wikipedia/en/d/dc/Stlove.jpg",
+        "audio": "",
+        "length": "4:56",
+        "genre": "progressive rock / gospel",
+        "year": "1976"
+      },
+      {
+        "id": "19",
+        "title": "Lithium",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "preview": "https://upload.wikimedia.org/wikipedia/en/6/6c/Nirvana-lithium-geffen-2-s.jpg",
+        "audio": "",
+        "length": "4:14",
+        "genre": "grunge / alternative rock / punk rock",
+        "year": "1992"
+      }
+    ]
+  },
   "favourite": []
 }
