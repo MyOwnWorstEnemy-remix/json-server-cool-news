@@ -23,6 +23,11 @@ server.use(jsonServer.rewriter({
     '/blog/:resource/:id/show': '/:resource/:id'
 }))
 server.use(router)
+server.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', 'http://localhost:3000')
+  res.header('Access-Control-Allow-Headers', '*')
+  next()
+})
 server.listen(3000, () => {
     console.log('JSON Server is running')
 })
