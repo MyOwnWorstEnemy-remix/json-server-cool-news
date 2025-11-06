@@ -16,6 +16,13 @@ const router = jsonServer.router('db.json')
 
 const middlewares = jsonServer.defaults({ noCors: true })
 
+server.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*'); // Allow any origin
+  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH, OPTIONS');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+  next();
+});
+
 server.use(middlewares)
 // Add this before server.use(router)
 server.use(jsonServer.rewriter({
@@ -23,11 +30,6 @@ server.use(jsonServer.rewriter({
     '/blog/:resource/:id/show': '/:resource/:id'
 }))
 server.use(router)
-server.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', 'http://localhost:5173')
-  res.header('Access-Control-Allow-Headers', '*')
-  next()
-})
 server.listen(3000, () => {
     console.log('JSON Server is running')
 })
